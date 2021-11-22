@@ -1,0 +1,362 @@
+[2021.11.14 20:30:21] [0000m.00s.017ms] [0] WELCOME
+[2021.11.14 20:30:21] [0000m.00s.018ms] [1] iCDB Server ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.11.14 20:30:21] [0000m.00s.018ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.11.14 20:30:21] [0000m.00s.018ms] [1] Base flow version [VX.2.7]
+[2021.11.14 20:30:21] [0000m.00s.018ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.11.14 20:30:21] [0000m.00s.018ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.11.14 20:30:21] [0000m.00s.026ms] [1] Machine [LAPTOP-MQ9FFE5U]  IP [127.0.0.1,192.168.38.109]  User [juanr]  PID [7456]
+[2021.11.14 20:30:21] [0000m.00s.026ms] [1] Operating system [Microsoft Windows 10 Home Premium Edition, 64-bit (build 19043)]
+[2021.11.14 20:30:21] [0000m.00s.026ms] [1] Current working dir [C:\PADS Projects\DxProjects\ICE-SHELTER]
+[2021.11.14 20:30:21] [0000m.00s.026ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Users\juanr\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\CAMCAD;C:\Users\juanr\AppData\Local\Programs\Microsoft VS Code\bin]
+[2021.11.14 20:30:21] [0000m.00s.027ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.11.14 20:30:21] [0000m.00s.027ms] [1] SDD_PLATFORM [win32]
+[2021.11.14 20:30:21] [0000m.00s.027ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.11.14 20:30:21] [0000m.00s.027ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.11.14 20:30:21] [0000m.00s.027ms] [2] S: Loading config files
+[2021.11.14 20:30:21] [0000m.00s.029ms] [1] Config file [C:\PADS Projects\DxProjects\ICE-SHELTER\database\cdbsvr\Server.cfg] not found
+[2021.11.14 20:30:21] [0000m.00s.030ms] [3] S: Config loaded
+[2021.11.14 20:30:21] [0000m.00s.035ms] [0] S: Project path [C:\PADS Projects\DxProjects\ICE-SHELTER\database] on file system [NTFS]
+[2021.11.14 20:30:21] [0000m.00s.035ms] [0] S: Project file (.prj) path [C:\PADS Projects\DxProjects\ICE-SHELTER\ICE-SHELTER.prj] on file system [NTFS]
+[2021.11.14 20:30:21] [0000m.00s.035ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2021.11.14 20:30:21] [0000m.00s.035ms] [0] S: Single-user mode (auto)
+[2021.11.14 20:30:21] [0000m.00s.035ms] [0] S: Event polling mode autodetection
+[2021.11.14 20:30:21] [0000m.00s.036ms] [0] S: Started up automatically by iCDB Client: LAPTOP-MQ9FFE5U:juanr:14732
+[2021.11.14 20:30:21] [0000m.00s.036ms] [0] S: Auto close mode
+[2021.11.14 20:30:21] [0000m.00s.036ms] [0] S: Database ID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 20:30:21] [0000m.00s.036ms] [0] PathTranslator: BEGIN dumping
+[2021.11.14 20:30:21] [0000m.00s.036ms] [0] PathTranslator: Local -> global path prefix list
+[2021.11.14 20:30:21] [0000m.00s.036ms] [0] PathTranslator: Global -> local path prefix list
+[2021.11.14 20:30:21] [0000m.00s.036ms] [0] PathTranslator: END dumping
+[2021.11.14 20:30:21] [0000m.00s.036ms] [0] S: START
+[2021.11.14 20:30:21] [0000m.00s.036ms] [0] S: Server startup lock file created
+[2021.11.14 20:30:21] [0000m.00s.037ms] [0] S: Listening for client connections on port [10000]
+[2021.11.14 20:30:21] [0000m.00s.038ms] [0] S: Server network ID [LAPTOP-MQ9FFE5U:192.168.38.109,LAPTOP-MQ9FFE5U:10000]
+[2021.11.14 20:30:21] [0000m.00s.038ms] [0] S: Server GUID [bc67-4c70-a170-25b5-d1aa-1913-2aa1-9160-7cd6-e282-6232-be9a]
+[2021.11.14 20:30:21] [0000m.00s.038ms] [0] S: Project GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 20:30:21] [0000m.00s.039ms] [0] S: Wrote data to server address file
+[2021.11.14 20:30:21] [0000m.00s.039ms] [0] S: Server startup lock file removed
+[2021.11.14 20:30:21] [0000m.00s.039ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\PADS Projects\DxProjects\ICE-SHELTER\ICE-SHELTER.prj]
+[2021.11.14 20:30:21] [0000m.00s.097ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2021.11.14 20:30:21] [0000m.00s.097ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\iCDB\win32\bin]
+[2021.11.14 20:30:21] [0000m.00s.097ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin]
+[2021.11.14 20:30:21] [0000m.00s.098ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2021.11.14 20:30:21] [0000m.00s.098ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2021.11.14 20:30:21] [0000m.00s.098ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2021.11.14 20:30:21] [0000m.00s.099ms] [0] S: Local disc access time: 50 us
+[2021.11.14 20:30:21] [0000m.00s.099ms] [0] S: File server access time: 51 us
+[2021.11.14 20:30:21] [0000m.00s.099ms] [0] Single file [C:\PADS Projects\DxProjects\ICE-SHELTER\database\icdb.dat] size [234480 (229.0 kB)]
+[2021.11.14 20:30:21] [0000m.00s.100ms] [1] Single file [C:\PADS Projects\DxProjects\ICE-SHELTER\database\icdb.dat] opened in read-write mode
+[2021.11.14 20:30:21] [0000m.00s.100ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.14 20:30:21] [0000m.00s.100ms] [0] Database GUARD OK: [234480]
+[2021.11.14 20:30:21] [0000m.00s.101ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.14 20:30:21] [0000m.00s.101ms] [0] Database GUARD OK: [234480]
+[2021.11.14 20:30:21] [0000m.00s.101ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.14 20:30:21] [0000m.00s.101ms] [0] Database GUARD OK: [234480]
+[2021.11.14 20:30:21] [0000m.00s.101ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.14 20:30:21] [0000m.00s.101ms] [0] Database GUARD OK: [234480]
+[2021.11.14 20:30:21] [0000m.00s.101ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2021.11.14 20:30:21] [0000m.00s.101ms] [0] Database GUARD OK: [234480]
+[2021.11.14 20:30:21] [0000m.00s.101ms] [0] SingleFile: [91b7-d927-b42e-98cb] SFI version check [1009] [1009]
+[2021.11.14 20:30:21] [0000m.00s.105ms] [0] SingleFile: [91b7-d927-b42e-98cb] Database SFI header has been read in [3ms 595us]
+[2021.11.14 20:30:21] [0000m.00s.109ms] [0] iCDB Server PI: Server & plugin session [266]
+[2021.11.14 20:30:21] [0000m.00s.109ms] [0] iCDB Server PI: Opening database [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.14 20:30:21] [0000m.00s.109ms] [0] iCDB Server PI: Database [C:\PADS Projects\DxProjects\ICE-SHELTER\database] opened
+[2021.11.14 20:30:21] [0000m.00s.135ms] [0] iCDB Database: Checking existence of constraint definitions
+[2021.11.14 20:30:21] [0000m.00s.135ms] [0] iCDB Database: Checking constraint definitions version
+[2021.11.14 20:30:21] [0000m.00s.153ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.69] up to date
+[2021.11.14 20:30:21] [0000m.00s.158ms] [0] iCDB Server PI: Initializing plugins
+[2021.11.14 20:30:21] [0000m.00s.158ms] [0] iCDB Server PI: Plugins initialized
+[2021.11.14 20:30:21] [0000m.00s.158ms] [0] S: iCDB database loaded
+[2021.11.14 20:30:21] [0000m.00s.159ms] [0] S: Starting threads
+[2021.11.14 20:30:21] [0000m.00s.160ms] [0] BT: Listening for broadcast messages on port [10000]
+[2021.11.14 20:30:21] [0000m.00s.160ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2021.11.14 20:30:21] [0000m.00s.161ms] [0] IT: Session [267] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [14732] created
+[2021.11.14 20:30:21] [0000m.00s.163ms] [1] SC[267]: Registered sub-client [DxD] with ID [1] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:21] [0000m.00s.163ms] [0] MWT: WindowProc: WM_NCCREATE
+[2021.11.14 20:30:21] [0000m.00s.255ms] [1] SC[267]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:21] [0000m.00s.268ms] [1] SC[267]: Registered sub-client [SymbolEditor] with ID [3] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:21] [0000m.00s.269ms] [1] CMT: There are [1] clients now: 267
+[2021.11.14 20:30:21] [0000m.00s.272ms] [1] SC[267]: Registered sub-client [SelectionHolder] with ID [4] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:21] [0000m.00s.296ms] [1] SC[267]: Registered sub-client [Core::DesignListener-431968168-0] with ID [5] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:21] [0000m.00s.299ms] [1] SC[267]: Registered sub-client [BlockCacheDxD:431967160] with ID [6] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:21] [0000m.00s.301ms] [1] SC[267]: Registered sub-client [Core::NetFlatData-21230] with ID [7] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:21] [0000m.00s.326ms] [1] SC[267]: Registered sub-client [SystemDesignDll] with ID [8] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:21] [0000m.00s.330ms] [1] SC[267]: UnRegistered sub-client [SystemDesignDll] with ID [8] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:21] [0000m.00s.332ms] [1] SC[267]: Registered sub-client [SystemDesignDll] with ID [9] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:23] [0000m.02s.138ms] [1] SC[267]: Registered sub-client [DesignSearcher2] with ID [10] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:23] [0000m.02s.142ms] [1] SC[267]: Registered sub-client [HdlProject] with ID [11] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:23] [0000m.02s.148ms] [1] SC[267]: Registered sub-client [Navigator] with ID [12] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:23] [0000m.02s.165ms] [1] SC[267]: Registered sub-client [OutputWindow] with ID [13] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:23] [0000m.02s.168ms] [1] SC[267]: Registered sub-client [PlaceDevice] with ID [14] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:23] [0000m.02s.262ms] [1] SC[267]: Registered sub-client [FFSearch_RBHost] with ID [15] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:23] [0000m.02s.266ms] [1] SC[267]: Registered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:24] [0000m.03s.450ms] [1] SC[267]: Registered sub-client [FFSSelListener] with ID [17] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:24] [0000m.03s.453ms] [1] SC[267]: Registered sub-client [SAE] with ID [18] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:24] [0000m.03s.467ms] [1] SC[267]: Registered sub-client [DxConstraints] with ID [19] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:24] [0000m.03s.470ms] [1] SC[267]: Registered sub-client [CCZAddin] with ID [20] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:24] [0000m.03s.473ms] [1] SC[267]: Registered sub-client [DxThumbnails] with ID [21] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:24] [0000m.03s.477ms] [1] SC[267]: Registered sub-client [MyParts] with ID [22] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:24] [0000m.03s.496ms] [1] SC[267]: Registered sub-client [PinsList] with ID [23] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:24] [0000m.03s.591ms] [1] SC[267]: Registered sub-client [toolboxes] with ID [24] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:24] [0000m.03s.697ms] [1] SC[267]: Registered sub-client [IBDInstanceDialog] with ID [25] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:24] [0000m.03s.700ms] [1] SC[267]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:432310208] with ID [26] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:24] [0000m.03s.745ms] [1] SC[267]: Registered sub-client [SheetConnectorsCacheDxD:1636936224] with ID [27] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:24] [0000m.03s.815ms] [1] SC[267]: Registered sub-client [NetsNamesCollectorDxD:1636936224] with ID [28] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:24] [0000m.03s.828ms] [1] SC[267]: Registered sub-client [PartReplaceUtils] with ID [29] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:24] [0000m.03s.831ms] [1] SC[267]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:24] [0000m.03s.842ms] [1] SC[267]: Registered sub-client [xprob] with ID [31] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:24] [0000m.03s.881ms] [1] SC[267]: Registered sub-client [StartServerClient3efc] with ID [32] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:24] [0000m.03s.882ms] [1] SC[267]: UnRegistered sub-client [StartServerClient3efc] with ID [32] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:28] [0000m.07s.375ms] [1] SC[267]: Registered sub-client [ObjectHolder_683536880] with ID [33] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:28] [0000m.07s.378ms] [1] SC[267]: Registered sub-client [BlockCacheDxD:679328112] with ID [34] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:28] [0000m.07s.382ms] [1] SC[267]: Registered sub-client [GlobalNetAliasUpdater_683537400] with ID [35] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:28] [0000m.07s.385ms] [1] SC[267]: Registered sub-client [IcdbNetProcessorSubClientDxD:682885808] with ID [36] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:28] [0000m.07s.644ms] [1] SC[267]: Registered sub-client [DxDbSearch] with ID [37] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:30:51] [0000m.29s.933ms] [0] DFAMT: File server access time: 71 us
+[2021.11.14 20:39:24] [0009m.03s.107ms] [0] IT: Session [268] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [17520] created
+[2021.11.14 20:39:24] [0009m.03s.107ms] [1] SC[268]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [268] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [17520]
+[2021.11.14 20:39:24] [0009m.03s.136ms] [1] CMT: There are [2] clients now: 267, 268
+[2021.11.14 20:39:24] [0009m.03s.162ms] [1] SC[268]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [268] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [17520]
+[2021.11.14 20:39:24] [0009m.03s.246ms] [1] CMT: Removed client [268]
+[2021.11.14 20:39:24] [0009m.03s.246ms] [1] CMT: There are [1] clients now: 267
+[2021.11.14 20:39:29] [0009m.08s.558ms] [0] IT: Session [269] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [17520] created
+[2021.11.14 20:39:29] [0009m.08s.559ms] [1] SC[269]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [269] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [17520]
+[2021.11.14 20:39:29] [0009m.08s.602ms] [1] CMT: There are [2] clients now: 267, 269
+[2021.11.14 20:39:30] [0009m.08s.928ms] [0] IT: Session [270] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [3552] created
+[2021.11.14 20:39:30] [0009m.08s.929ms] [1] CMT: There are [3] clients now: 267, 269, 270
+[2021.11.14 20:39:30] [0009m.08s.930ms] [1] SC[270]: Registered sub-client [icdb2wir] with ID [1] for session ID [270] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [3552]
+[2021.11.14 20:39:30] [0009m.09s.031ms] [1] SC[270]: UnRegistered sub-client [icdb2wir] with ID [1] for session ID [270] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [3552]
+[2021.11.14 20:39:30] [0009m.09s.039ms] [1] CMT: Removed client [270]
+[2021.11.14 20:39:30] [0009m.09s.039ms] [1] CMT: There are [2] clients now: 267, 269
+[2021.11.14 20:39:31] [0009m.10s.468ms] [0] IT: Session [271] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [9720] created
+[2021.11.14 20:39:31] [0009m.10s.470ms] [1] SC[271]: Registered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [271] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [9720]
+[2021.11.14 20:39:31] [0009m.10s.568ms] [1] CMT: There are [3] clients now: 267, 269, 271
+[2021.11.14 20:39:32] [0009m.11s.557ms] [1] SC[271]: Registered sub-client [LSUDX_PCB] with ID [2] for session ID [271] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [9720]
+[2021.11.14 20:39:32] [0009m.11s.574ms] [1] SC[271]: Registered sub-client [ObjectHolder_150096800] with ID [3] for session ID [271] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [9720]
+[2021.11.14 20:39:32] [0009m.11s.577ms] [1] SC[271]: Registered sub-client [BlockCacheDxD:146589624] with ID [4] for session ID [271] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [9720]
+[2021.11.14 20:39:32] [0009m.11s.581ms] [1] SC[271]: Registered sub-client [GlobalNetAliasUpdater_151236696] with ID [5] for session ID [271] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [9720]
+[2021.11.14 20:39:32] [0009m.11s.585ms] [1] SC[271]: Registered sub-client [IcdbNetProcessorSubClientDxD:154062312] with ID [6] for session ID [271] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [9720]
+[2021.11.14 20:39:32] [0009m.11s.729ms] [1] SC[271]: UnRegistered sub-client [GlobalNetAliasUpdater_151236696] with ID [5] for session ID [271] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [9720]
+[2021.11.14 20:39:32] [0009m.11s.729ms] [1] SC[271]: UnRegistered sub-client [BlockCacheDxD:146589624] with ID [4] for session ID [271] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [9720]
+[2021.11.14 20:39:32] [0009m.11s.730ms] [1] SC[271]: UnRegistered sub-client [ObjectHolder_150096800] with ID [3] for session ID [271] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [9720]
+[2021.11.14 20:39:32] [0009m.11s.730ms] [1] SC[271]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:154062312] with ID [6] for session ID [271] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [9720]
+[2021.11.14 20:39:32] [0009m.11s.730ms] [1] SC[271]: UnRegistered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [271] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [9720]
+[2021.11.14 20:39:32] [0009m.11s.735ms] [1] SC[271]: UnRegistered sub-client [LSUDX_PCB] with ID [2] for session ID [271] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [9720]
+[2021.11.14 20:39:32] [0009m.11s.773ms] [1] CMT: Removed client [271]
+[2021.11.14 20:39:32] [0009m.11s.773ms] [1] CMT: There are [2] clients now: 267, 269
+[2021.11.14 20:39:33] [0009m.12s.029ms] [1] SC[267]: UnRegistered sub-client [GlobalNetAliasUpdater_683537400] with ID [35] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:39:33] [0009m.12s.030ms] [1] SC[267]: UnRegistered sub-client [BlockCacheDxD:679328112] with ID [34] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:39:33] [0009m.12s.030ms] [1] SC[267]: UnRegistered sub-client [ObjectHolder_683536880] with ID [33] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:39:33] [0009m.12s.030ms] [1] SC[267]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:682885808] with ID [36] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:39:33] [0009m.12s.042ms] [1] SC[267]: Registered sub-client [ObjectHolder_683543848] with ID [38] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:39:33] [0009m.12s.045ms] [1] SC[267]: Registered sub-client [BlockCacheDxD:683291608] with ID [39] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:39:33] [0009m.12s.048ms] [1] SC[267]: Registered sub-client [GlobalNetAliasUpdater_683544264] with ID [40] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:39:33] [0009m.12s.051ms] [1] SC[267]: Registered sub-client [IcdbNetProcessorSubClientDxD:679062024] with ID [41] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:39:33] [0009m.12s.207ms] [1] SC[269]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [269] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [17520]
+[2021.11.14 20:39:33] [0009m.12s.317ms] [1] CMT: Removed client [269]
+[2021.11.14 20:39:33] [0009m.12s.317ms] [1] CMT: There are [1] clients now: 267
+[2021.11.14 20:39:33] [0009m.12s.662ms] [0] IT: Session [272] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [17520] created
+[2021.11.14 20:39:33] [0009m.12s.663ms] [1] SC[272]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [272] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [17520]
+[2021.11.14 20:39:33] [0009m.12s.720ms] [1] SC[272]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [272] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [17520]
+[2021.11.14 20:39:33] [0009m.12s.755ms] [1] CMT: There are [2] clients now: 267, 272
+[2021.11.14 20:39:33] [0009m.12s.755ms] [1] CMT: Removed client [272]
+[2021.11.14 20:39:33] [0009m.12s.755ms] [1] CMT: There are [1] clients now: 267
+[2021.11.14 20:39:35] [0009m.13s.927ms] [0] IT: Session [273] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [17520] created
+[2021.11.14 20:39:35] [0009m.13s.928ms] [1] SC[273]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [273] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [17520]
+[2021.11.14 20:39:35] [0009m.13s.964ms] [1] CMT: There are [2] clients now: 267, 273
+[2021.11.14 20:39:35] [0009m.13s.994ms] [1] SC[273]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [273] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [17520]
+[2021.11.14 20:39:35] [0009m.14s.075ms] [1] CMT: Removed client [273]
+[2021.11.14 20:39:35] [0009m.14s.075ms] [1] CMT: There are [1] clients now: 267
+[2021.11.14 20:50:04] [0019m.43s.386ms] [0] IT: Session [274] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [17520] created
+[2021.11.14 20:50:04] [0019m.43s.387ms] [1] SC[274]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [274] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [17520]
+[2021.11.14 20:50:04] [0019m.43s.444ms] [1] SC[274]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [274] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [17520]
+[2021.11.14 20:50:04] [0019m.43s.463ms] [1] CMT: There are [2] clients now: 267, 274
+[2021.11.14 20:50:04] [0019m.43s.463ms] [1] CMT: Removed client [274]
+[2021.11.14 20:50:04] [0019m.43s.463ms] [1] CMT: There are [1] clients now: 267
+[2021.11.14 20:50:15] [0019m.54s.849ms] [0] IT: Session [275] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [13924] created
+[2021.11.14 20:50:15] [0019m.54s.850ms] [1] SC[275]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [275] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [13924]
+[2021.11.14 20:50:16] [0019m.54s.904ms] [1] SC[275]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [275] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [13924]
+[2021.11.14 20:50:16] [0019m.54s.913ms] [1] CMT: There are [2] clients now: 267, 275
+[2021.11.14 20:50:16] [0019m.54s.913ms] [1] CMT: Removed client [275]
+[2021.11.14 20:50:16] [0019m.54s.913ms] [1] CMT: There are [1] clients now: 267
+[2021.11.14 20:50:22] [0020m.01s.254ms] [0] IT: Session [276] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [13924] created
+[2021.11.14 20:50:22] [0020m.01s.255ms] [1] SC[276]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [276] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [13924]
+[2021.11.14 20:50:22] [0020m.01s.305ms] [1] CMT: There are [2] clients now: 267, 276
+[2021.11.14 20:50:22] [0020m.01s.536ms] [0] IT: Session [277] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [16056] created
+[2021.11.14 20:50:22] [0020m.01s.537ms] [1] SC[277]: Registered sub-client [icdb2wir] with ID [1] for session ID [277] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [16056]
+[2021.11.14 20:50:22] [0020m.01s.633ms] [1] CMT: There are [3] clients now: 267, 276, 277
+[2021.11.14 20:50:22] [0020m.01s.641ms] [1] SC[277]: UnRegistered sub-client [icdb2wir] with ID [1] for session ID [277] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [16056]
+[2021.11.14 20:50:22] [0020m.01s.740ms] [1] CMT: Removed client [277]
+[2021.11.14 20:50:22] [0020m.01s.741ms] [1] CMT: There are [2] clients now: 267, 276
+[2021.11.14 20:50:24] [0020m.03s.050ms] [0] IT: Session [278] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [14220] created
+[2021.11.14 20:50:24] [0020m.03s.051ms] [1] SC[278]: Registered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [278] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14220]
+[2021.11.14 20:50:24] [0020m.03s.062ms] [1] CMT: There are [3] clients now: 267, 276, 278
+[2021.11.14 20:50:25] [0020m.04s.136ms] [1] SC[278]: Registered sub-client [LSUDX_PCB] with ID [2] for session ID [278] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14220]
+[2021.11.14 20:50:25] [0020m.04s.150ms] [1] SC[278]: Registered sub-client [ObjectHolder_155308928] with ID [3] for session ID [278] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14220]
+[2021.11.14 20:50:25] [0020m.04s.153ms] [1] SC[278]: Registered sub-client [BlockCacheDxD:146670200] with ID [4] for session ID [278] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14220]
+[2021.11.14 20:50:25] [0020m.04s.156ms] [1] SC[278]: Registered sub-client [GlobalNetAliasUpdater_155309240] with ID [5] for session ID [278] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14220]
+[2021.11.14 20:50:25] [0020m.04s.159ms] [1] SC[278]: Registered sub-client [IcdbNetProcessorSubClientDxD:6134296] with ID [6] for session ID [278] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14220]
+[2021.11.14 20:50:25] [0020m.04s.288ms] [1] SC[278]: UnRegistered sub-client [GlobalNetAliasUpdater_155309240] with ID [5] for session ID [278] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14220]
+[2021.11.14 20:50:25] [0020m.04s.288ms] [1] SC[278]: UnRegistered sub-client [BlockCacheDxD:146670200] with ID [4] for session ID [278] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14220]
+[2021.11.14 20:50:25] [0020m.04s.289ms] [1] SC[278]: UnRegistered sub-client [ObjectHolder_155308928] with ID [3] for session ID [278] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14220]
+[2021.11.14 20:50:25] [0020m.04s.289ms] [1] SC[278]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:6134296] with ID [6] for session ID [278] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14220]
+[2021.11.14 20:50:25] [0020m.04s.289ms] [1] SC[278]: UnRegistered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [278] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14220]
+[2021.11.14 20:50:25] [0020m.04s.294ms] [1] SC[278]: UnRegistered sub-client [LSUDX_PCB] with ID [2] for session ID [278] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14220]
+[2021.11.14 20:50:25] [0020m.04s.384ms] [1] CMT: Removed client [278]
+[2021.11.14 20:50:25] [0020m.04s.385ms] [1] CMT: There are [2] clients now: 267, 276
+[2021.11.14 20:50:25] [0020m.04s.625ms] [1] SC[267]: UnRegistered sub-client [GlobalNetAliasUpdater_683544264] with ID [40] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:50:25] [0020m.04s.625ms] [1] SC[267]: UnRegistered sub-client [BlockCacheDxD:683291608] with ID [39] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:50:25] [0020m.04s.626ms] [1] SC[267]: UnRegistered sub-client [ObjectHolder_683543848] with ID [38] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:50:25] [0020m.04s.626ms] [1] SC[267]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:679062024] with ID [41] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:50:25] [0020m.04s.637ms] [1] SC[267]: Registered sub-client [ObjectHolder_683351720] with ID [42] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:50:25] [0020m.04s.640ms] [1] SC[267]: Registered sub-client [BlockCacheDxD:683270296] with ID [43] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:50:25] [0020m.04s.643ms] [1] SC[267]: Registered sub-client [GlobalNetAliasUpdater_683351408] with ID [44] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:50:25] [0020m.04s.646ms] [1] SC[267]: Registered sub-client [IcdbNetProcessorSubClientDxD:679064208] with ID [45] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 20:50:25] [0020m.04s.755ms] [1] SC[276]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [276] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [13924]
+[2021.11.14 20:50:25] [0020m.04s.820ms] [1] CMT: Removed client [276]
+[2021.11.14 20:50:25] [0020m.04s.820ms] [1] CMT: There are [1] clients now: 267
+[2021.11.14 20:50:25] [0020m.04s.854ms] [0] IT: Session [279] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [13924] created
+[2021.11.14 20:50:25] [0020m.04s.855ms] [1] SC[279]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [279] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [13924]
+[2021.11.14 20:50:26] [0020m.04s.912ms] [1] SC[279]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [279] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [13924]
+[2021.11.14 20:50:26] [0020m.04s.932ms] [1] CMT: There are [2] clients now: 267, 279
+[2021.11.14 20:50:26] [0020m.04s.932ms] [1] CMT: Removed client [279]
+[2021.11.14 20:50:26] [0020m.04s.932ms] [1] CMT: There are [1] clients now: 267
+[2021.11.14 20:50:27] [0020m.06s.715ms] [0] IT: Session [280] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [13924] created
+[2021.11.14 20:50:27] [0020m.06s.715ms] [1] SC[280]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [280] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [13924]
+[2021.11.14 20:50:27] [0020m.06s.783ms] [1] SC[280]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [280] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [13924]
+[2021.11.14 20:50:27] [0020m.06s.795ms] [1] CMT: There are [2] clients now: 267, 280
+[2021.11.14 20:50:27] [0020m.06s.795ms] [1] CMT: Removed client [280]
+[2021.11.14 20:50:27] [0020m.06s.795ms] [1] CMT: There are [1] clients now: 267
+[2021.11.14 22:01:16] [0090m.55s.269ms] [0] IT: Session [281] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [1996] created
+[2021.11.14 22:01:16] [0090m.55s.270ms] [1] SC[281]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [281] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [1996]
+[2021.11.14 22:01:16] [0090m.55s.323ms] [1] SC[281]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [281] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [1996]
+[2021.11.14 22:01:16] [0090m.55s.348ms] [1] CMT: There are [2] clients now: 267, 281
+[2021.11.14 22:01:16] [0090m.55s.348ms] [1] CMT: Removed client [281]
+[2021.11.14 22:01:16] [0090m.55s.348ms] [1] CMT: There are [1] clients now: 267
+[2021.11.14 22:01:20] [0090m.59s.524ms] [0] IT: Session [282] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [1996] created
+[2021.11.14 22:01:20] [0090m.59s.525ms] [1] SC[282]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [282] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [1996]
+[2021.11.14 22:01:20] [0090m.59s.610ms] [1] CMT: There are [2] clients now: 267, 282
+[2021.11.14 22:01:20] [0090m.59s.800ms] [0] IT: Session [283] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [1748] created
+[2021.11.14 22:01:20] [0090m.59s.802ms] [1] SC[283]: Registered sub-client [icdb2wir] with ID [1] for session ID [283] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [1748]
+[2021.11.14 22:01:20] [0090m.59s.831ms] [1] CMT: There are [3] clients now: 267, 282, 283
+[2021.11.14 22:01:21] [0090m.59s.901ms] [1] SC[283]: UnRegistered sub-client [icdb2wir] with ID [1] for session ID [283] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [1748]
+[2021.11.14 22:01:21] [0090m.59s.940ms] [1] CMT: Removed client [283]
+[2021.11.14 22:01:21] [0090m.59s.940ms] [1] CMT: There are [2] clients now: 267, 282
+[2021.11.14 22:01:22] [0091m.01s.352ms] [0] IT: Session [284] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [16868] created
+[2021.11.14 22:01:22] [0091m.01s.353ms] [1] SC[284]: Registered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [284] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [16868]
+[2021.11.14 22:01:22] [0091m.01s.372ms] [1] CMT: There are [3] clients now: 267, 282, 284
+[2021.11.14 22:01:23] [0091m.02s.437ms] [1] SC[284]: Registered sub-client [LSUDX_PCB] with ID [2] for session ID [284] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [16868]
+[2021.11.14 22:01:23] [0091m.02s.452ms] [1] SC[284]: Registered sub-client [ObjectHolder_156394328] with ID [3] for session ID [284] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [16868]
+[2021.11.14 22:01:23] [0091m.02s.455ms] [1] SC[284]: Registered sub-client [BlockCacheDxD:6142824] with ID [4] for session ID [284] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [16868]
+[2021.11.14 22:01:23] [0091m.02s.458ms] [1] SC[284]: Registered sub-client [GlobalNetAliasUpdater_156392872] with ID [5] for session ID [284] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [16868]
+[2021.11.14 22:01:23] [0091m.02s.461ms] [1] SC[284]: Registered sub-client [IcdbNetProcessorSubClientDxD:6343032] with ID [6] for session ID [284] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [16868]
+[2021.11.14 22:01:23] [0091m.02s.590ms] [1] SC[284]: UnRegistered sub-client [GlobalNetAliasUpdater_156392872] with ID [5] for session ID [284] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [16868]
+[2021.11.14 22:01:23] [0091m.02s.590ms] [1] SC[284]: UnRegistered sub-client [BlockCacheDxD:6142824] with ID [4] for session ID [284] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [16868]
+[2021.11.14 22:01:23] [0091m.02s.591ms] [1] SC[284]: UnRegistered sub-client [ObjectHolder_156394328] with ID [3] for session ID [284] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [16868]
+[2021.11.14 22:01:23] [0091m.02s.591ms] [1] SC[284]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:6343032] with ID [6] for session ID [284] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [16868]
+[2021.11.14 22:01:23] [0091m.02s.591ms] [1] SC[284]: UnRegistered sub-client [PCBfwd/PCBbck] with ID [1] for session ID [284] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [16868]
+[2021.11.14 22:01:23] [0091m.02s.595ms] [1] SC[284]: UnRegistered sub-client [LSUDX_PCB] with ID [2] for session ID [284] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [16868]
+[2021.11.14 22:01:23] [0091m.02s.697ms] [1] CMT: Removed client [284]
+[2021.11.14 22:01:23] [0091m.02s.697ms] [1] CMT: There are [2] clients now: 267, 282
+[2021.11.14 22:01:24] [0091m.02s.921ms] [1] SC[267]: UnRegistered sub-client [GlobalNetAliasUpdater_683351408] with ID [44] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:01:24] [0091m.02s.921ms] [1] SC[267]: UnRegistered sub-client [BlockCacheDxD:683270296] with ID [43] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:01:24] [0091m.02s.922ms] [1] SC[267]: UnRegistered sub-client [ObjectHolder_683351720] with ID [42] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:01:24] [0091m.02s.922ms] [1] SC[267]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:679064208] with ID [45] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:01:24] [0091m.02s.933ms] [1] SC[267]: Registered sub-client [ObjectHolder_683543744] with ID [46] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:01:24] [0091m.02s.935ms] [1] SC[267]: Registered sub-client [BlockCacheDxD:683269672] with ID [47] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:01:24] [0091m.02s.938ms] [1] SC[267]: Registered sub-client [GlobalNetAliasUpdater_683536672] with ID [48] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:01:24] [0091m.02s.941ms] [1] SC[267]: Registered sub-client [IcdbNetProcessorSubClientDxD:679066056] with ID [49] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:01:24] [0091m.03s.050ms] [1] SC[282]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [282] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [1996]
+[2021.11.14 22:01:24] [0091m.03s.133ms] [1] CMT: Removed client [282]
+[2021.11.14 22:01:24] [0091m.03s.133ms] [1] CMT: There are [1] clients now: 267
+[2021.11.14 22:01:24] [0091m.03s.200ms] [0] IT: Session [285] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [1996] created
+[2021.11.14 22:01:24] [0091m.03s.201ms] [1] SC[285]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [285] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [1996]
+[2021.11.14 22:01:24] [0091m.03s.244ms] [1] CMT: There are [2] clients now: 267, 285
+[2021.11.14 22:01:24] [0091m.03s.258ms] [1] SC[285]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [285] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [1996]
+[2021.11.14 22:01:24] [0091m.03s.355ms] [1] CMT: Removed client [285]
+[2021.11.14 22:01:24] [0091m.03s.355ms] [1] CMT: There are [1] clients now: 267
+[2021.11.14 22:01:25] [0091m.04s.493ms] [0] IT: Session [286] for host [LAPTOP-MQ9FFE5U] user [juanr] client type[0] clsvrPluginID[0] with process ID [1996] created
+[2021.11.14 22:01:25] [0091m.04s.494ms] [1] SC[286]: Registered sub-client [ViewDrawLink] with ID [1] for session ID [286] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [1996]
+[2021.11.14 22:01:25] [0091m.04s.556ms] [1] CMT: There are [2] clients now: 267, 286
+[2021.11.14 22:01:25] [0091m.04s.558ms] [1] SC[286]: UnRegistered sub-client [ViewDrawLink] with ID [1] for session ID [286] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [1996]
+[2021.11.14 22:01:25] [0091m.04s.665ms] [1] CMT: Removed client [286]
+[2021.11.14 22:01:25] [0091m.04s.665ms] [1] CMT: There are [1] clients now: 267
+[2021.11.14 22:06:48] [0096m.27s.416ms] [1] SC[267]: UnRegistered sub-client [FFSSelListener] with ID [17] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:06:48] [0096m.27s.428ms] [1] SC[267]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [16] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:06:48] [0096m.27s.431ms] [1] SC[267]: Registered sub-client [LocalSymbolsDataProvider] with ID [50] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:06:48] [0096m.27s.434ms] [1] SC[267]: Registered sub-client [FFSSelListener] with ID [51] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:06:48] [0096m.27s.445ms] [1] SC[267]: UnRegistered sub-client [DxConstraints] with ID [19] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:06:48] [0096m.27s.448ms] [1] SC[267]: Registered sub-client [DxConstraints] with ID [52] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:06:49] [0096m.28s.089ms] [1] SC[267]: UnRegistered sub-client [FFSSelListener] with ID [51] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:06:49] [0096m.28s.090ms] [1] SC[267]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [50] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:06:49] [0096m.28s.093ms] [1] SC[267]: Registered sub-client [LocalSymbolsDataProvider] with ID [53] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:06:49] [0096m.28s.097ms] [1] SC[267]: Registered sub-client [FFSSelListener] with ID [54] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:06:49] [0096m.28s.107ms] [1] SC[267]: UnRegistered sub-client [DxConstraints] with ID [52] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:06:49] [0096m.28s.111ms] [1] SC[267]: Registered sub-client [DxConstraints] with ID [55] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:06:49] [0096m.28s.425ms] [1] SC[267]: UnRegistered sub-client [FFSSelListener] with ID [54] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:06:49] [0096m.28s.427ms] [1] SC[267]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [53] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:06:49] [0096m.28s.430ms] [1] SC[267]: Registered sub-client [LocalSymbolsDataProvider] with ID [56] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:06:49] [0096m.28s.433ms] [1] SC[267]: Registered sub-client [FFSSelListener] with ID [57] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:06:49] [0096m.28s.444ms] [1] SC[267]: UnRegistered sub-client [DxConstraints] with ID [55] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 22:06:49] [0096m.28s.447ms] [1] SC[267]: Registered sub-client [DxConstraints] with ID [58] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:03:35] [0153m.14s.044ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-14 23.03.35 - auto.zip] with GUID [c92e-e616-66ca-fcf1-70ec-191d-0ec1-9160-7b55-e282-6232-be9a]
+[2021.11.14 23:03:35] [0153m.14s.045ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[4f67-6059-203f-e076-1e0d-f817-e0df-8160-1820-7372-6f9e-ae9a] CreationTime[Saturday, November 13, 2021 14:51:13] Type[Autosave] Creator[iCDB Server (2021-11-13 03.12.42-20680)] ApplicationName[iCDB Server (2021-11-13 03.12.42-20680)] UserName[juanr] MachineName[LAPTOP-MQ9FFE5U] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-13 10.51.13 - auto.zip] BackupFileSize[466924] Persistent[FALSE]
+[2021.11.14 23:03:35] [0153m.14s.047ms] [0] PrjBackupMgr: Project Backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-13 10.51.13 - auto.zip] with GUID [4f67-6059-203f-e076-1e0d-f817-e0df-8160-1820-7372-6f9e-ae9a] removed
+[2021.11.14 23:03:35] [0153m.14s.048ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[c92e-e616-66ca-fcf1-70ec-191d-0ec1-9160-7b55-e282-6232-be9a] CreationTime[Monday, November 15, 2021 03:03:35] Type[Autosave] Creator[iCDB Server (2021-11-14 20.30.21-7456)] ApplicationName[iCDB Server (2021-11-14 20.30.21-7456)] UserName[juanr] MachineName[LAPTOP-MQ9FFE5U] Description[Autosave] FullFlowName[PADS VX.2.7; PADS VX.2.7 - Update 1] FlowId[PADSVX.2.7] GBSInstallId[2119024; 2150279] GBSBuildId[15449124] IcdbVersion[3800] ReferenceLogFilePath[] BackupFilePath[C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-14 23.03.35 - auto.zip] BackupFileSize[427437] Persistent[FALSE]
+[2021.11.14 23:11:55] [0161m.34s.745ms] [1] SC[267]: UnRegistered sub-client [SystemDesignDll] with ID [9] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:56] [0161m.34s.961ms] [1] SC[267]: UnRegistered sub-client [DesignSearcher2] with ID [10] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:56] [0161m.35s.107ms] [1] SC[267]: UnRegistered sub-client [GlobalNetAliasUpdater_683536672] with ID [48] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:56] [0161m.35s.107ms] [1] SC[267]: UnRegistered sub-client [BlockCacheDxD:683269672] with ID [47] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:56] [0161m.35s.108ms] [1] SC[267]: UnRegistered sub-client [ObjectHolder_683543744] with ID [46] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:56] [0161m.35s.108ms] [1] SC[267]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:679066056] with ID [49] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:56] [0161m.35s.113ms] [1] SC[267]: UnRegistered sub-client [Navigator] with ID [12] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:56] [0161m.35s.118ms] [1] SC[267]: UnRegistered sub-client [FFSSelListener] with ID [57] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:56] [0161m.35s.202ms] [1] SC[267]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [56] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:56] [0161m.35s.295ms] [1] SC[267]: UnRegistered sub-client [FFSearch_RBHost] with ID [15] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:56] [0161m.35s.321ms] [1] SC[267]: UnRegistered sub-client [MyParts] with ID [22] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:56] [0161m.35s.325ms] [1] SC[267]: UnRegistered sub-client [toolboxes] with ID [24] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:56] [0161m.35s.389ms] [1] SC[267]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:56] [0161m.35s.389ms] [1] SC[267]: UnRegistered sub-client [PartReplaceUtils] with ID [29] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:56] [0161m.35s.390ms] [1] SC[267]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [30] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:57] [0161m.36s.887ms] [1] SC[267]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:432310208] with ID [26] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:57] [0161m.36s.887ms] [1] SC[267]: UnRegistered sub-client [Core::NetFlatData-21230] with ID [7] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:57] [0161m.36s.888ms] [1] SC[267]: UnRegistered sub-client [BlockCacheDxD:431967160] with ID [6] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:57] [0161m.36s.888ms] [1] SC[267]: UnRegistered sub-client [Core::DesignListener-431968168-0] with ID [5] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:57] [0161m.36s.888ms] [1] SC[267]: UnRegistered sub-client [SheetConnectorsCacheDxD:1636936224] with ID [27] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:57] [0161m.36s.889ms] [1] SC[267]: UnRegistered sub-client [NetsNamesCollectorDxD:1636936224] with ID [28] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:57] [0161m.36s.892ms] [1] SC[267]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:57] [0161m.36s.893ms] [1] SC[267]: UnRegistered sub-client [DxD] with ID [1] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:58] [0161m.36s.908ms] [1] SC[267]: UnRegistered sub-client [xprob] with ID [31] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:58] [0161m.36s.909ms] [1] SC[267]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:58] [0161m.36s.920ms] [1] SC[267]: UnRegistered sub-client [OutputWindow] with ID [13] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:58] [0161m.37s.064ms] [1] SC[267]: UnRegistered sub-client [DxDbSearch] with ID [37] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:58] [0161m.37s.070ms] [1] SC[267]: UnRegistered sub-client [SAE] with ID [18] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:58] [0161m.37s.088ms] [1] SC[267]: UnRegistered sub-client [CCZAddin] with ID [20] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:11:58] [0161m.37s.092ms] [1] SC[267]: UnRegistered sub-client [DxThumbnails] with ID [21] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:12:02] [0161m.40s.941ms] [1] SC[267]: UnRegistered sub-client [DxConstraints] with ID [58] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:12:02] [0161m.40s.979ms] [1] SC[267]: UnRegistered sub-client [PinsList] with ID [23] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:12:02] [0161m.41s.050ms] [1] SC[267]: UnRegistered sub-client [PlaceDevice] with ID [14] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:12:02] [0161m.41s.100ms] [1] SC[267]: UnRegistered sub-client [IBDInstanceDialog] with ID [25] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:12:02] [0161m.41s.115ms] [1] SC[267]: UnRegistered sub-client [HdlProject] with ID [11] for session ID [267] host [LAPTOP-MQ9FFE5U] user [juanr] process ID [14732]
+[2021.11.14 23:12:02] [0161m.41s.198ms] [1] CMT: Removed client [267]
+[2021.11.14 23:12:02] [0161m.41s.198ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2021.11.14 23:12:04] [0161m.42s.955ms] [0] CMT: Starting server auto-close
+[2021.11.14 23:12:04] [0161m.43s.031ms] [0] S: Closing server
+[2021.11.14 23:12:04] [0161m.43s.218ms] [0] iCDB Server PI: Closing plugins
+[2021.11.14 23:12:04] [0161m.43s.219ms] [0] iCDB Server PI: Plugins closed
+[2021.11.14 23:12:04] [0161m.43s.219ms] [0] iCDB Server PI: Unloading database
+[2021.11.14 23:12:04] [0161m.43s.220ms] [0] iCDB Server PI: Saving storage
+[2021.11.14 23:12:04] [0161m.43s.220ms] [0] iCDB Server PI: Closing database
+[2021.11.14 23:12:04] [0161m.43s.225ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[5%] data[97%]
+[2021.11.14 23:12:04] [0161m.43s.226ms] [1] iCDB Server PI: Stats: Database file size [247136 (241.3 kB)]
+[2021.11.14 23:12:04] [0161m.43s.236ms] [0] iCDB Server PI: Database closed
+[2021.11.14 23:12:04] [0161m.43s.236ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [80212] ticks
+[2021.11.14 23:12:04] [0161m.43s.236ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [8021] microseconds
+[2021.11.14 23:12:04] [0161m.43s.236ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [123]
+[2021.11.14 23:12:04] [0161m.43s.236ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [15334] commands per second
+[2021.11.14 23:12:04] [0161m.43s.236ms] [1] iCDB Server PI: Stats: Mem[33849344]
+[2021.11.14 23:12:04] [0161m.43s.237ms] [1] iCDB Server PI: Stats: MemPeak[43573248]
+[2021.11.14 23:12:04] [0161m.43s.238ms] [0] Single file [C:\PADS Projects\DxProjects\ICE-SHELTER\database\icdb.dat] closed with size [247136 (241.3 kB)]
+[2021.11.14 23:12:04] [0161m.43s.359ms] [0] MWT: Destroy the shutdown block reason.
+[2021.11.14 23:12:04] [0161m.43s.361ms] [0] MWT: STOP
+[2021.11.14 23:12:04] [0161m.43s.361ms] [0] S: STOP

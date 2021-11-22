@@ -1,0 +1,84 @@
+[2021-11-05 21.44.26] Successfully created [AutoSave] backup [2021-11-05 21.44.26 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-06 08.26.39] Successfully created [AutoSave] backup [2021-11-06 08.26.39 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-06 12.26.39] Successfully created [AutoSave] backup [2021-11-06 12.26.39 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-06 20.12.58] Successfully created [AutoSave] backup [2021-11-06 20.12.58 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-06 20.12.58] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-05 21.44.26 - auto.zip].
+[2021-11-06 20.12.58] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-05 21.44.26 - auto.zip] removed.
+[2021-11-07 06.35.07] Successfully created [AutoSave] backup [2021-11-07 06.35.07 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-07 06.35.07] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-06 08.26.39 - auto.zip].
+[2021-11-07 06.35.07] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-06 08.26.39 - auto.zip] removed.
+[2021-11-07 10.35.07] Successfully created [AutoSave] backup [2021-11-07 10.35.07 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-07 10.35.07] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-06 12.26.39 - auto.zip].
+[2021-11-07 10.35.07] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-06 12.26.39 - auto.zip] removed.
+[2021-11-07 18.17.28] Successfully created [AutoSave] backup [2021-11-07 18.17.28 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-07 18.17.28] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-06 20.12.58 - auto.zip].
+[2021-11-07 18.17.28] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-06 20.12.58 - auto.zip] removed.
+[2021-11-08 01.15.59] Successfully created [AutoSave] backup [2021-11-08 01.15.59 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-08 01.15.59] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-07 06.35.07 - auto.zip].
+[2021-11-08 01.15.59] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-07 06.35.07 - auto.zip] removed.
+[2021-11-08 08.00.23] Successfully created [AutoSave] backup [2021-11-08 08.00.22 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-08 08.00.23] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-07 10.35.07 - auto.zip].
+[2021-11-08 08.00.23] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-07 10.35.07 - auto.zip] removed.
+[2021-11-08 12.00.22] Successfully created [AutoSave] backup [2021-11-08 12.00.22 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-08 12.00.22] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-07 18.17.28 - auto.zip].
+[2021-11-08 12.00.22] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-07 18.17.28 - auto.zip] removed.
+[2021-11-08 16.13.30] Successfully created [AutoSave] backup [2021-11-08 16.13.30 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-08 16.13.30] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-08 01.15.59 - auto.zip].
+[2021-11-08 16.13.30] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-08 01.15.59 - auto.zip] removed.
+[2021-11-08 23.03.48] Successfully created [AutoSave] backup [2021-11-08 23.03.48 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-08 23.03.48] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-08 08.00.22 - auto.zip].
+[2021-11-08 23.03.48] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-08 08.00.22 - auto.zip] removed.
+[2021-11-09 16.46.16] Successfully created [AutoSave] backup [2021-11-09 16.46.15 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-09 16.46.16] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-08 12.00.22 - auto.zip].
+[2021-11-09 16.46.16] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-08 12.00.22 - auto.zip] removed.
+[2021-11-10 10.10.07] Successfully created [AutoSave] backup [2021-11-10 10.10.06 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-10 10.10.07] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-08 16.13.30 - auto.zip].
+[2021-11-10 10.10.07] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-08 16.13.30 - auto.zip] removed.
+[2021-11-10 14.49.56] Successfully created [AutoSave] backup [2021-11-10 14.49.56 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-10 14.49.56] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-08 23.03.48 - auto.zip].
+[2021-11-10 14.49.56] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-08 23.03.48 - auto.zip] removed.
+[2021-11-10 18.49.56] Successfully created [AutoSave] backup [2021-11-10 18.49.56 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-10 18.49.56] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-09 16.46.15 - auto.zip].
+[2021-11-10 18.49.56] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-09 16.46.15 - auto.zip] removed.
+[2021-11-10 22.49.56] Successfully created [AutoSave] backup [2021-11-10 22.49.56 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-10 22.49.56] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-10 10.10.06 - auto.zip].
+[2021-11-10 22.49.56] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-10 10.10.06 - auto.zip] removed.
+[2021-11-11 08.21.11] Successfully created [AutoSave] backup [2021-11-11 08.21.10 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-11 08.21.11] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-10 14.49.56 - auto.zip].
+[2021-11-11 08.21.11] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-10 14.49.56 - auto.zip] removed.
+[2021-11-11 12.21.10] Successfully created [AutoSave] backup [2021-11-11 12.21.10 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-11 12.21.10] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-10 18.49.56 - auto.zip].
+[2021-11-11 12.21.10] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-10 18.49.56 - auto.zip] removed.
+[2021-11-11 19.48.05] Successfully created [AutoSave] backup [2021-11-11 19.48.05 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-11 19.48.05] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-10 22.49.56 - auto.zip].
+[2021-11-11 19.48.05] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-10 22.49.56 - auto.zip] removed.
+[2021-11-12 08.28.56] Successfully created [AutoSave] backup [2021-11-12 08.28.56 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-12 08.28.56] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-11 08.21.10 - auto.zip].
+[2021-11-12 08.28.56] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-11 08.21.10 - auto.zip] removed.
+[2021-11-12 12.28.56] Successfully created [AutoSave] backup [2021-11-12 12.28.56 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-12 12.28.56] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-11 12.21.10 - auto.zip].
+[2021-11-12 12.28.56] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-11 12.21.10 - auto.zip] removed.
+[2021-11-12 17.09.57] Successfully created [AutoSave] backup [2021-11-12 17.09.56 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-12 17.09.57] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-11 19.48.05 - auto.zip].
+[2021-11-12 17.09.57] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-11 19.48.05 - auto.zip] removed.
+[2021-11-12 21.09.56] Successfully created [AutoSave] backup [2021-11-12 21.09.56 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-12 21.09.56] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-12 08.28.56 - auto.zip].
+[2021-11-12 21.09.56] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-12 08.28.56 - auto.zip] removed.
+[2021-11-13 03.12.43] Successfully created [AutoSave] backup [2021-11-13 03.12.43 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-13 03.12.43] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-12 12.28.56 - auto.zip].
+[2021-11-13 03.12.43] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-12 12.28.56 - auto.zip] removed.
+[2021-11-13 10.51.14] Successfully created [AutoSave] backup [2021-11-13 10.51.13 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-13 10.51.14] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-12 17.09.56 - auto.zip].
+[2021-11-13 10.51.14] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-12 17.09.56 - auto.zip] removed.
+[2021-11-13 15.26.38] Successfully created [AutoSave] backup [2021-11-13 15.26.38 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-13 15.26.38] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-12 21.09.56 - auto.zip].
+[2021-11-13 15.26.38] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-12 21.09.56 - auto.zip] removed.
+[2021-11-14 19.03.35] Successfully created [AutoSave] backup [2021-11-14 19.03.35 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-14 19.03.35] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-13 03.12.43 - auto.zip].
+[2021-11-14 19.03.35] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-13 03.12.43 - auto.zip] removed.
+[2021-11-14 23.03.35] Successfully created [AutoSave] backup [2021-11-14 23.03.35 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-14 23.03.35] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-13 10.51.13 - auto.zip].
+[2021-11-14 23.03.35] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-13 10.51.13 - auto.zip] removed.
+[2021-11-15 16.48.30] Successfully created [AutoSave] backup [2021-11-15 16.48.30 - auto.zip] requested by [LAPTOP-MQ9FFE5U:juanr].
+[2021-11-15 16.48.30] Removing excessive [AutoSave] backup file [C:\PADS Projects\DxProjects\ICE-SHELTER\ProjectBackup\backups\2021-11-13 15.26.38 - auto.zip].
+[2021-11-15 16.48.30] [AutoSave] backup file [ICE-SHELTER\ProjectBackup\backups\2021-11-13 15.26.38 - auto.zip] removed.

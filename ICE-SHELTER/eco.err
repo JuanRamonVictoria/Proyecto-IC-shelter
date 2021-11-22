@@ -1,0 +1,15 @@
+** ECO In Report **
+
+Fri Nov 12 19:13:15 2021
+
+Input  File : C:\PADS Projects\DxProjects\ICE-SHELTER\TOP.eco
+Current Job : Untitled
+
+
+No errors found
+
+Attribute Dictionary was modified during import operations.  The following
+attributes were added to the Attribute Dictionary as non-ECO Registered:
+
+PKG_TYPE
+CLASS
