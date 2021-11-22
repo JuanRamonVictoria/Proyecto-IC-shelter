@@ -1,0 +1,55 @@
+[2021.11.11 00:13:18] [0026m.05s.040ms] [1] WARNING: Server sleep detected
+[2021.11.11 00:13:18] [0026m.05s.159ms] [0] ERROR: Receiving command: Socket Exception: Category[Socket] Error[ConnectionClosed] Description[Connection closed] Message[Receiving network command with timeout]
+[2021.11.11 00:13:18] [0026m.05s.160ms] [1] Disconnected from iCDB Server
+[2021.11.11 00:13:18] [0026m.05s.160ms] [0] RT: ERROR: Receiving command: Socket Exception: Category[Socket] Error[ConnectionClosed] Description[Connection closed] Message[Receiving network command with timeout]
+[2021.11.11 00:13:18] [0026m.05s.160ms] [1] Working mode: Offline (server sleep)
+[2021.11.11 00:13:18] [0026m.05s.163ms] [0] CE: ERROR: Executing notify command on iCDB: [Notify # ServerCommandID[16910] # NetSubClientFullData[ClientData[ClientNetAddress[] # ClientUserName[] # ClientProcessID[0] # SessionID[0] # Type[0]] # SubClientData[SubClientName[] # SubClientID[0]]] @ GoOffline]
+[2021.11.11 00:13:18] [0026m.05s.163ms] [0] RT: ERROR: Receiving command: Client Exception: Category[Client] Error[ClientNotOnLine] Description[Client is not connected to the server] Message[Could not receive command from server]
+[2021.11.11 00:13:18] [0026m.05s.458ms] [1] C: Unregistered sub-client: [DesignSearcher2] with ID: [10]
+[2021.11.11 00:13:18] [0026m.05s.484ms] [1] C: Unregistered sub-client: [Navigator] with ID: [12]
+[2021.11.11 00:13:18] [0026m.05s.484ms] [1] C: Unregistered sub-client: [OutputWindow] with ID: [13]
+[2021.11.11 00:13:18] [0026m.05s.485ms] [1] C: Unregistered sub-client: [PlaceDevice] with ID: [14]
+[2021.11.11 00:13:18] [0026m.05s.516ms] [1] C: Unregistered sub-client: [FFSSelListener] with ID: [17]
+[2021.11.11 00:13:18] [0026m.05s.724ms] [1] Working mode: Offline (no connection possible)
+[2021.11.11 00:13:18] [0026m.05s.734ms] [1] Working mode: Offline (server changed)
+[2021.11.11 00:13:19] [0026m.06s.059ms] [1] C: Unregistered sub-client: [LocalSymbolsDataProvider] with ID: [16]
+[2021.11.11 00:13:19] [0026m.06s.248ms] [0] AT: Discovered client working mode change to non-recoverable error: [Offline (server changed)] - no auto-repair connection possible
+[2021.11.11 00:13:19] [0026m.06s.383ms] [1] C: Unregistered sub-client: [FFSearch_RBHost] with ID: [15]
+[2021.11.11 00:13:19] [0026m.06s.384ms] [1] C: Unregistered sub-client: [SAE] with ID: [18]
+[2021.11.11 00:13:19] [0026m.06s.385ms] [1] C: Unregistered sub-client: [DxConstraints] with ID: [19]
+[2021.11.11 00:13:19] [0026m.06s.386ms] [1] C: Unregistered sub-client: [CCZAddin] with ID: [20]
+[2021.11.11 00:13:19] [0026m.06s.386ms] [1] C: Unregistered sub-client: [DxThumbnails] with ID: [21]
+[2021.11.11 00:13:19] [0026m.06s.437ms] [1] C: Unregistered sub-client: [MyParts] with ID: [22]
+[2021.11.11 00:13:19] [0026m.06s.438ms] [1] C: Unregistered sub-client: [PinsList] with ID: [23]
+[2021.11.11 00:13:19] [0026m.06s.438ms] [1] C: Unregistered sub-client: [toolboxes] with ID: [24]
+[2021.11.11 00:13:19] [0026m.06s.533ms] [1] C: Unregistered sub-client: [IBDInstanceDialog] with ID: [25]
+[2021.11.11 00:13:19] [0026m.06s.533ms] [1] C: Unregistered sub-client: [HdlProject] with ID: [11]
+[2021.11.11 00:13:19] [0026m.06s.533ms] [1] C: Unregistered sub-client: [SystemDesignDll] with ID: [9]
+[2021.11.11 00:13:19] [0026m.06s.563ms] [1] WARNING: Unrecoverable error detected
+[2021.11.11 00:13:19] [0026m.06s.671ms] [1] WARNING: Unrecoverable error detected
+[2021.11.11 00:13:19] [0026m.06s.690ms] [1] WARNING: Unrecoverable error detected
+[2021.11.11 00:13:19] [0026m.06s.802ms] [1] WARNING: Unrecoverable error detected
+[2021.11.11 00:13:19] [0026m.06s.861ms] [1] WARNING: Unrecoverable error detected
+[2021.11.11 00:13:19] [0026m.06s.883ms] [1] WARNING: Unrecoverable error detected
+[2021.11.11 00:13:19] [0026m.06s.924ms] [1] WARNING: Unrecoverable error detected
+[2021.11.11 00:13:19] [0026m.06s.928ms] [1] C: Unregistered sub-client: [GlobalNetAliasUpdater_688980608] with ID: [39]
+[2021.11.11 00:13:19] [0026m.06s.928ms] [1] C: Unregistered sub-client: [BlockCacheDxD:688883160] with ID: [38]
+[2021.11.11 00:13:19] [0026m.06s.928ms] [1] C: Unregistered sub-client: [ObjectHolder_688981336] with ID: [37]
+[2021.11.11 00:13:19] [0026m.06s.929ms] [1] C: Unregistered sub-client: [IcdbNetProcessorSubClientDxD:682130544] with ID: [40]
+[2021.11.11 00:13:19] [0026m.06s.929ms] [1] C: Unregistered sub-client: [PartReplaceUtils] with ID: [29]
+[2021.11.11 00:13:19] [0026m.06s.930ms] [1] C: Unregistered sub-client: [PartReplaceUtilsSelectionListener] with ID: [30]
+[2021.11.11 00:13:20] [0026m.07s.503ms] [1] C: Unregistered sub-client: [ProjectIntegrationIcdbCacheDxD:646172936] with ID: [26]
+[2021.11.11 00:13:20] [0026m.07s.503ms] [1] C: Unregistered sub-client: [Core::NetFlatData-6127] with ID: [7]
+[2021.11.11 00:13:20] [0026m.07s.503ms] [1] C: Unregistered sub-client: [BlockCacheDxD:450030544] with ID: [6]
+[2021.11.11 00:13:20] [0026m.07s.504ms] [1] C: Unregistered sub-client: [Core::DesignListener-450029536-0] with ID: [5]
+[2021.11.11 00:13:20] [0026m.07s.504ms] [1] C: Unregistered sub-client: [SelectionHolder] with ID: [4]
+[2021.11.11 00:13:20] [0026m.07s.504ms] [1] C: Unregistered sub-client: [SheetConnectorsCacheDxD:1636602476] with ID: [27]
+[2021.11.11 00:13:20] [0026m.07s.504ms] [1] C: Unregistered sub-client: [NetsNamesCollectorDxD:1636602476] with ID: [28]
+[2021.11.11 00:13:20] [0026m.07s.504ms] [1] C: Unregistered sub-client: [TransactionRollbackSubClient] with ID: [2]
+[2021.11.11 00:13:20] [0026m.07s.505ms] [1] C: Unregistered sub-client: [DxD] with ID: [1]
+[2021.11.11 00:13:20] [0026m.07s.523ms] [1] C: Unregistered sub-client: [xprob] with ID: [31]
+[2021.11.11 00:13:20] [0026m.07s.536ms] [1] C: Unregistered sub-client: [SymbolEditor] with ID: [3]
+[2021.11.11 00:13:20] [0026m.07s.536ms] [1] C: WARNING: Closing session while not connected to iCDB Server
+[2021.11.11 00:13:20] [0026m.07s.536ms] [1] Working mode: Offline
+[2021.11.11 00:13:20] [0026m.07s.791ms] [0] C: Stop
+[2021.11.11 00:13:20] [0026m.07s.792ms] [0] .

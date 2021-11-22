@@ -1,0 +1,72 @@
+[2021.11.14 23:49:16] [0000m.00s.021ms] [0] WELCOME
+[2021.11.14 23:49:16] [0000m.00s.022ms] [1] iCDB API ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.11.14 23:49:16] [0000m.00s.022ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.11.14 23:49:16] [0000m.00s.022ms] [1] Base flow version [VX.2.7]
+[2021.11.14 23:49:16] [0000m.00s.022ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.11.14 23:49:16] [0000m.00s.022ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.11.14 23:49:16] [0000m.00s.035ms] [1] Machine [LAPTOP-MQ9FFE5U]  IP [127.0.0.1,192.168.1.64]  User [juanr]  PID [9380]
+[2021.11.14 23:49:16] [0000m.00s.035ms] [1] Operating system [Microsoft Windows 8 Home Premium Edition, 64-bit (build 9200)]
+[2021.11.14 23:49:16] [0000m.00s.035ms] [1] Current working dir [C:\PADS Projects]
+[2021.11.14 23:49:16] [0000m.00s.035ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common3D\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Users\juanr\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\CAMCAD;C:\Users\juanr\AppData\Local\Programs\Microsoft VS Code\bin]
+[2021.11.14 23:49:16] [0000m.00s.035ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.11.14 23:49:16] [0000m.00s.035ms] [1] SDD_PLATFORM [win32]
+[2021.11.14 23:49:16] [0000m.00s.035ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.11.14 23:49:16] [0000m.00s.035ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.11.14 23:49:16] [0000m.00s.036ms] [0] PM: Entering client mode
+[2021.11.14 23:49:47] [0000m.31s.579ms] [0] DiagProperties: ERROR: iCDB Server Monitor address file not found
+[2021.11.14 23:49:47] [0000m.31s.585ms] [1] ServerProperties: Reading server properties for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database]
+[2021.11.14 23:49:47] [0000m.31s.585ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [8495-7fd6-8819-ac6d-090d-1916-90d1-9160-1f24-63b2-6f9e-ae9a]  for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database] with GUID [7b0b-a90e-eda9-28a5-74cd-781d-4cd7-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 23:49:47] [0000m.31s.585ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 23:49:47] [0000m.31s.586ms] [1] ServerProperties: Reading server properties for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database]
+[2021.11.14 23:49:47] [0000m.31s.586ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [8495-7fd6-8819-ac6d-090d-1916-90d1-9160-1f24-63b2-6f9e-ae9a]  for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database] with GUID [7b0b-a90e-eda9-28a5-74cd-781d-4cd7-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 23:49:47] [0000m.31s.586ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 23:49:47] [0000m.31s.613ms] [0] AMC: Event: ProjectConnectionSucceed
+[2021.11.14 23:49:47] [0000m.31s.619ms] [1] SK:  Registered snapshot [07971498]
+[2021.11.14 23:49:47] [0000m.31s.624ms] [1] SK:  Registered snapshot [0BB34818]
+[2021.11.14 23:49:47] [0000m.31s.669ms] [1] SK:  Unregistered snapshot [07971498]
+[2021.11.14 23:49:48] [0000m.32s.131ms] [0] DiagProperties: ERROR: iCDB Server Monitor address file not found
+[2021.11.14 23:49:48] [0000m.32s.138ms] [1] ServerProperties: Reading server properties for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database]
+[2021.11.14 23:49:48] [0000m.32s.138ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [8495-7fd6-8819-ac6d-090d-1916-90d1-9160-1f24-63b2-6f9e-ae9a]  for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database] with GUID [7b0b-a90e-eda9-28a5-74cd-781d-4cd7-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 23:49:48] [0000m.32s.138ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 23:49:48] [0000m.32s.139ms] [1] ServerProperties: Reading server properties for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database]
+[2021.11.14 23:49:48] [0000m.32s.140ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [8495-7fd6-8819-ac6d-090d-1916-90d1-9160-1f24-63b2-6f9e-ae9a]  for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database] with GUID [7b0b-a90e-eda9-28a5-74cd-781d-4cd7-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 23:49:48] [0000m.32s.140ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 23:49:57] [0000m.41s.615ms] [0] DiagProperties: ERROR: iCDB Server Monitor address file not found
+[2021.11.14 23:49:57] [0000m.41s.621ms] [1] ServerProperties: Reading server properties for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database]
+[2021.11.14 23:49:57] [0000m.41s.621ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [8495-7fd6-8819-ac6d-090d-1916-90d1-9160-1f24-63b2-6f9e-ae9a]  for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database] with GUID [7b0b-a90e-eda9-28a5-74cd-781d-4cd7-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 23:49:57] [0000m.41s.621ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 23:49:57] [0000m.41s.622ms] [1] ServerProperties: Reading server properties for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database]
+[2021.11.14 23:49:57] [0000m.41s.623ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [8495-7fd6-8819-ac6d-090d-1916-90d1-9160-1f24-63b2-6f9e-ae9a]  for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database] with GUID [7b0b-a90e-eda9-28a5-74cd-781d-4cd7-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 23:49:57] [0000m.41s.623ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 23:49:57] [0000m.41s.648ms] [0] AMC: Event: ProjectConnectionSucceed
+[2021.11.14 23:49:57] [0000m.41s.653ms] [1] SK:  Registered snapshot [07988E78]
+[2021.11.14 23:49:57] [0000m.41s.662ms] [1] SK:  Registered snapshot [0BB2C038]
+[2021.11.14 23:49:57] [0000m.41s.674ms] [1] SK:  Unregistered snapshot [0BB34818]
+[2021.11.14 23:50:01] [0000m.45s.465ms] [1] SK:  Unregistered snapshot [07988E78]
+[2021.11.14 23:50:01] [0000m.45s.672ms] [0] DiagProperties: ERROR: iCDB Server Monitor address file not found
+[2021.11.14 23:50:01] [0000m.45s.680ms] [1] ServerProperties: Reading server properties for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database]
+[2021.11.14 23:50:01] [0000m.45s.681ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [8495-7fd6-8819-ac6d-090d-1916-90d1-9160-1f24-63b2-6f9e-ae9a]  for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database] with GUID [7b0b-a90e-eda9-28a5-74cd-781d-4cd7-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 23:50:01] [0000m.45s.681ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 23:50:01] [0000m.45s.681ms] [1] ServerProperties: Reading server properties for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database]
+[2021.11.14 23:50:01] [0000m.45s.682ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [8495-7fd6-8819-ac6d-090d-1916-90d1-9160-1f24-63b2-6f9e-ae9a]  for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database] with GUID [7b0b-a90e-eda9-28a5-74cd-781d-4cd7-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 23:50:01] [0000m.45s.682ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 23:50:01] [0000m.45s.707ms] [0] AMC: Event: ProjectConnectionSucceed
+[2021.11.14 23:50:01] [0000m.45s.713ms] [1] SK:  Registered snapshot [0BA55728]
+[2021.11.14 23:50:01] [0000m.45s.719ms] [1] SK:  Registered snapshot [0BC40140]
+[2021.11.14 23:50:01] [0000m.45s.729ms] [1] SK:  Unregistered snapshot [0BB2C038]
+[2021.11.14 23:50:01] [0000m.45s.768ms] [1] SK:  Unregistered snapshot [0BA55728]
+[2021.11.14 23:50:05] [0000m.49s.910ms] [0] DiagProperties: ERROR: iCDB Server Monitor address file not found
+[2021.11.14 23:50:05] [0000m.49s.922ms] [1] ServerProperties: Reading server properties for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database]
+[2021.11.14 23:50:05] [0000m.49s.924ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [8495-7fd6-8819-ac6d-090d-1916-90d1-9160-1f24-63b2-6f9e-ae9a]  for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database] with GUID [7b0b-a90e-eda9-28a5-74cd-781d-4cd7-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 23:50:05] [0000m.49s.924ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 23:50:05] [0000m.49s.926ms] [1] ServerProperties: Reading server properties for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database]
+[2021.11.14 23:50:05] [0000m.49s.927ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [8495-7fd6-8819-ac6d-090d-1916-90d1-9160-1f24-63b2-6f9e-ae9a]  for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database] with GUID [7b0b-a90e-eda9-28a5-74cd-781d-4cd7-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 23:50:05] [0000m.49s.927ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 23:50:06] [0000m.49s.956ms] [0] AMC: Event: ProjectConnectionSucceed
+[2021.11.14 23:50:06] [0000m.49s.962ms] [1] SK:  Registered snapshot [0B8D0CA0]
+[2021.11.14 23:50:06] [0000m.49s.969ms] [1] SK:  Registered snapshot [0BC1C020]
+[2021.11.14 23:50:06] [0000m.49s.982ms] [1] SK:  Unregistered snapshot [0BC40140]
+[2021.11.14 23:50:06] [0000m.50s.025ms] [1] SK:  Unregistered snapshot [0B8D0CA0]
+[2021.11.14 23:51:19] [0002m.03s.712ms] [1] SK:  Unregistered snapshot [0BC1C020]
+[2021.11.14 23:51:19] [0002m.03s.715ms] [0] PM: Closing client mode
+[2021.11.14 23:51:19] [0002m.03s.716ms] [0] .

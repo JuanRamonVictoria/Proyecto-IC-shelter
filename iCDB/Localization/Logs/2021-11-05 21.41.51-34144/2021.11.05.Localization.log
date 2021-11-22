@@ -1,0 +1,9 @@
+[2021.11.05 21:41:51] [0000m.00s.887ms] [0] Create the localizationManager.
+[2021.11.05 21:41:51] [0000m.00s.890ms] [0] Load localization data from: C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard\iCDB\localization.xml
+[2021.11.05 21:41:51] [0000m.00s.891ms] [0] MGC_PCB_LANGUAGE is not set.
+[2021.11.05 21:41:51] [0000m.00s.891ms] [0] MGC_PCB_LANGUAGE_ICDB is not set.
+[2021.11.05 21:41:51] [0000m.00s.891ms] [0] GetLocaleName: Windows Vista or greater
+[2021.11.05 21:41:51] [0000m.00s.892ms] [0] GetLocaleName: ch=[es-MX]
+[2021.11.05 21:41:51] [0000m.00s.892ms] [0] GetLocaleName//corrected: ch=[es-MX//es-MX]
+[2021.11.05 21:41:51] [0000m.00s.892ms] [0] Locale name: es-MX
+[2021.11.05 21:41:51] [0000m.00s.893ms] [0] PrimaryLocale: es

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dbc version="1.1" checksum="78ca3b9eda73204e12230b254acc0922e10ff9b29d802d7874633c4f8499e151">
+  <CObject0 overallSchema="21" flag="DX Databook Overlay Configuration File" BaseConfigurationURL="">
+    <CConfig1>
+      <CConfigSym2>
+        <CObArray3 CXMLTypedPtrArraySize="0"/>
+      </CConfigSym2>
+      <CConfigLib4>
+        <CObArray5 CXMLTypedPtrArraySize="0"/>
+      </CConfigLib4>
+      <CConfigPref6 LoadIntoNewWindow="0" SymbolAttributesGetLoaded="0" ComponentTracking="1" AnnotateUndefinedAttributes="0" ChangeCompEnabled="0" ComponentTrackingZoom="0" MaintainAttVisibility="0" LibraryAttEnabled="1" LibraryAttName="DXDB_LIBNAME" AnnotateUndefinedAttributesValue="" UseLoadTabAttribute="0" LoadTabAttributeName="" AnnotateSelected="0" AnnotateSelectedPrefix="ALT_*" AnnotateRemoveAttributes="1" ExcludedAttList="&quot;Ref Designator&quot;" UseCustomDecimalSign="0" DecimalSign="." m_bIEC62="0" IEC62Fields="" IgnoreSelectedBlocks="1"/>
+      <CConfigScripting7 OnAddComponentEnabled="1" OnAnnoComponentEnabled="1" OnLoadComponentEnabled="1" OnSelectComponentEnabled="1" OnViewDocumentEnabled="1" OnAfterAddComponentEnabled="1" OnAfterAnnoComponentEnabled="1">
+        <CConfigScriptLanguage8 Filename="" type="0" progID="VBScript"/>
+      </CConfigScripting7>
+    </CConfig1>
+    <CObList9 CPersistList="0"/>
+  </CObject0>
+</dbc>

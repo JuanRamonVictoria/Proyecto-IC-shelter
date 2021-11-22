@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DiagGUI_cfg>
+  <issues>
+    <issue type="100"/>
+    <issue type="101"/>
+    <issue type="103"/>
+    <issue type="104"/>
+    <issue type="105"/>
+    <issue type="106"/>
+    <issue type="107"/>
+    <issue type="108"/>
+    <issue type="109"/>
+    <issue type="110"/>
+    <issue type="111"/>
+    <issue type="112"/>
+    <issue type="114"/>
+    <issue type="200"/>
+    <issue type="201"/>
+    <issue type="202"/>
+    <issue type="203"/>
+    <issue type="302"/>
+    <issue type="303"/>
+    <issue type="304"/>
+    <issue type="307"/>
+    <issue type="308"/>
+    <issue type="309"/>
+    <issue type="310"/>
+    <issue type="311"/>
+    <issue type="312"/>
+    <issue type="400"/>
+    <issue type="401"/>
+    <issue type="402"/>
+    <issue type="403"/>
+    <issue type="404"/>
+    <issue type="405"/>
+  </issues>
+</DiagGUI_cfg>

@@ -1,0 +1,91 @@
+[2021.11.14 20:39:20] [0000m.00s.021ms] [0] WELCOME
+[2021.11.14 20:39:20] [0000m.00s.022ms] [1] iCDB API ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.11.14 20:39:20] [0000m.00s.022ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.11.14 20:39:20] [0000m.00s.022ms] [1] Base flow version [VX.2.7]
+[2021.11.14 20:39:20] [0000m.00s.022ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.11.14 20:39:20] [0000m.00s.022ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.11.14 20:39:20] [0000m.00s.033ms] [1] Machine [LAPTOP-MQ9FFE5U]  IP [127.0.0.1,192.168.38.109]  User [juanr]  PID [17520]
+[2021.11.14 20:39:20] [0000m.00s.034ms] [1] Operating system [Microsoft Windows 8 Home Premium Edition, 64-bit (build 9200)]
+[2021.11.14 20:39:20] [0000m.00s.034ms] [1] Current working dir [C:\PADS Projects]
+[2021.11.14 20:39:20] [0000m.00s.034ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common3D\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Users\juanr\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\CAMCAD;C:\Users\juanr\AppData\Local\Programs\Microsoft VS Code\bin]
+[2021.11.14 20:39:20] [0000m.00s.034ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.11.14 20:39:20] [0000m.00s.034ms] [1] SDD_PLATFORM [win32]
+[2021.11.14 20:39:20] [0000m.00s.034ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.11.14 20:39:20] [0000m.00s.034ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.11.14 20:39:20] [0000m.00s.034ms] [0] PM: Entering client mode
+[2021.11.14 20:39:24] [0000m.03s.965ms] [0] DiagProperties: ERROR: iCDB Server Monitor address file not found
+[2021.11.14 20:39:24] [0000m.03s.970ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.14 20:39:24] [0000m.03s.970ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [bc67-4c70-a170-25b5-d1aa-1913-2aa1-9160-7cd6-e282-6232-be9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 20:39:24] [0000m.03s.970ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 20:39:24] [0000m.03s.971ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.14 20:39:24] [0000m.03s.972ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [bc67-4c70-a170-25b5-d1aa-1913-2aa1-9160-7cd6-e282-6232-be9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 20:39:24] [0000m.03s.972ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 20:39:24] [0000m.03s.997ms] [0] AMC: Event: ProjectConnectionSucceed
+[2021.11.14 20:39:24] [0000m.04s.002ms] [1] SK:  Registered snapshot [043F5978]
+[2021.11.14 20:39:24] [0000m.04s.007ms] [1] SK:  Registered snapshot [04435B08]
+[2021.11.14 20:39:24] [0000m.04s.051ms] [1] SK:  Unregistered snapshot [043F5978]
+[2021.11.14 20:39:24] [0000m.04s.535ms] [0] DiagProperties: ERROR: iCDB Server Monitor address file not found
+[2021.11.14 20:39:24] [0000m.04s.538ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.14 20:39:24] [0000m.04s.538ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [bc67-4c70-a170-25b5-d1aa-1913-2aa1-9160-7cd6-e282-6232-be9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 20:39:24] [0000m.04s.538ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 20:39:24] [0000m.04s.539ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.14 20:39:24] [0000m.04s.540ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [bc67-4c70-a170-25b5-d1aa-1913-2aa1-9160-7cd6-e282-6232-be9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 20:39:24] [0000m.04s.540ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 20:39:29] [0000m.09s.422ms] [0] DiagProperties: ERROR: iCDB Server Monitor address file not found
+[2021.11.14 20:39:29] [0000m.09s.426ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.14 20:39:29] [0000m.09s.427ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [bc67-4c70-a170-25b5-d1aa-1913-2aa1-9160-7cd6-e282-6232-be9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 20:39:29] [0000m.09s.427ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 20:39:29] [0000m.09s.428ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.14 20:39:29] [0000m.09s.428ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [bc67-4c70-a170-25b5-d1aa-1913-2aa1-9160-7cd6-e282-6232-be9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 20:39:29] [0000m.09s.428ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 20:39:29] [0000m.09s.448ms] [0] AMC: Event: ProjectConnectionSucceed
+[2021.11.14 20:39:29] [0000m.09s.454ms] [1] SK:  Registered snapshot [075032D8]
+[2021.11.14 20:39:29] [0000m.09s.459ms] [1] SK:  Registered snapshot [006C2DA0]
+[2021.11.14 20:39:29] [0000m.09s.470ms] [1] SK:  Unregistered snapshot [04435B08]
+[2021.11.14 20:39:33] [0000m.13s.096ms] [1] SK:  Unregistered snapshot [075032D8]
+[2021.11.14 20:39:33] [0000m.13s.525ms] [0] DiagProperties: ERROR: iCDB Server Monitor address file not found
+[2021.11.14 20:39:33] [0000m.13s.531ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.14 20:39:33] [0000m.13s.531ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [bc67-4c70-a170-25b5-d1aa-1913-2aa1-9160-7cd6-e282-6232-be9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 20:39:33] [0000m.13s.532ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 20:39:33] [0000m.13s.532ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.14 20:39:33] [0000m.13s.533ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [bc67-4c70-a170-25b5-d1aa-1913-2aa1-9160-7cd6-e282-6232-be9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 20:39:33] [0000m.13s.533ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 20:39:33] [0000m.13s.552ms] [0] AMC: Event: ProjectConnectionSucceed
+[2021.11.14 20:39:33] [0000m.13s.557ms] [1] SK:  Registered snapshot [07080478]
+[2021.11.14 20:39:33] [0000m.13s.561ms] [1] SK:  Registered snapshot [0752D010]
+[2021.11.14 20:39:33] [0000m.13s.572ms] [1] SK:  Unregistered snapshot [006C2DA0]
+[2021.11.14 20:39:33] [0000m.13s.610ms] [1] SK:  Unregistered snapshot [07080478]
+[2021.11.14 20:39:34] [0000m.14s.784ms] [0] DiagProperties: ERROR: iCDB Server Monitor address file not found
+[2021.11.14 20:39:35] [0000m.14s.792ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.14 20:39:35] [0000m.14s.793ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [bc67-4c70-a170-25b5-d1aa-1913-2aa1-9160-7cd6-e282-6232-be9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 20:39:35] [0000m.14s.793ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 20:39:35] [0000m.14s.794ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.14 20:39:35] [0000m.14s.794ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [bc67-4c70-a170-25b5-d1aa-1913-2aa1-9160-7cd6-e282-6232-be9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 20:39:35] [0000m.14s.794ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 20:39:35] [0000m.14s.817ms] [0] AMC: Event: ProjectConnectionSucceed
+[2021.11.14 20:39:35] [0000m.14s.822ms] [1] SK:  Registered snapshot [07238E88]
+[2021.11.14 20:39:35] [0000m.14s.827ms] [1] SK:  Registered snapshot [0751AFF8]
+[2021.11.14 20:39:35] [0000m.14s.840ms] [1] SK:  Unregistered snapshot [0752D010]
+[2021.11.14 20:39:35] [0000m.14s.883ms] [1] SK:  Unregistered snapshot [07238E88]
+[2021.11.14 20:50:04] [0010m.44s.249ms] [0] DiagProperties: ERROR: iCDB Server Monitor address file not found
+[2021.11.14 20:50:04] [0010m.44s.255ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.14 20:50:04] [0010m.44s.255ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [bc67-4c70-a170-25b5-d1aa-1913-2aa1-9160-7cd6-e282-6232-be9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 20:50:04] [0010m.44s.255ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 20:50:04] [0010m.44s.256ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.14 20:50:04] [0010m.44s.257ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [bc67-4c70-a170-25b5-d1aa-1913-2aa1-9160-7cd6-e282-6232-be9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 20:50:04] [0010m.44s.257ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 20:50:04] [0010m.44s.276ms] [0] AMC: Event: ProjectConnectionSucceed
+[2021.11.14 20:50:04] [0010m.44s.281ms] [1] SK:  Registered snapshot [07080478]
+[2021.11.14 20:50:04] [0010m.44s.285ms] [1] SK:  Registered snapshot [07F258B0]
+[2021.11.14 20:50:04] [0010m.44s.296ms] [1] SK:  Unregistered snapshot [0751AFF8]
+[2021.11.14 20:50:04] [0010m.44s.334ms] [1] SK:  Unregistered snapshot [07080478]
+[2021.11.14 20:50:05] [0010m.44s.816ms] [0] DiagProperties: ERROR: iCDB Server Monitor address file not found
+[2021.11.14 20:50:05] [0010m.44s.819ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.14 20:50:05] [0010m.44s.819ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [bc67-4c70-a170-25b5-d1aa-1913-2aa1-9160-7cd6-e282-6232-be9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 20:50:05] [0010m.44s.819ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 20:50:05] [0010m.44s.820ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.14 20:50:05] [0010m.44s.821ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [bc67-4c70-a170-25b5-d1aa-1913-2aa1-9160-7cd6-e282-6232-be9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 20:50:05] [0010m.44s.821ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 20:50:08] [0010m.48s.741ms] [1] SK:  Unregistered snapshot [07F258B0]
+[2021.11.14 20:50:08] [0010m.48s.743ms] [0] PM: Closing client mode
+[2021.11.14 20:50:08] [0010m.48s.743ms] [0] .

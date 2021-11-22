@@ -1,0 +1,35 @@
+[2021.11.14 23:49:58] [0000m.00s.087ms] [0] WELCOME
+[2021.11.14 23:49:58] [0000m.00s.088ms] [1] iCDB Client ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.11.14 23:49:58] [0000m.00s.088ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.11.14 23:49:58] [0000m.00s.088ms] [1] Base flow version [VX.2.7]
+[2021.11.14 23:49:58] [0000m.00s.088ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.11.14 23:49:58] [0000m.00s.088ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.11.14 23:49:58] [0000m.00s.089ms] [1] Machine [LAPTOP-MQ9FFE5U]  IP [127.0.0.1,192.168.1.64]  User [juanr]  PID [10244]
+[2021.11.14 23:49:58] [0000m.00s.089ms] [1] Operating system [Microsoft Windows 8 Home Premium Edition, 64-bit (build 9200)]
+[2021.11.14 23:49:58] [0000m.00s.089ms] [1] Current working dir [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist]
+[2021.11.14 23:49:58] [0000m.00s.089ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common3D\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Users\juanr\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\CAMCAD;C:\Users\juanr\AppData\Local\Programs\Microsoft VS Code\bin]
+[2021.11.14 23:49:58] [0000m.00s.089ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.11.14 23:49:58] [0000m.00s.089ms] [1] SDD_PLATFORM [win32]
+[2021.11.14 23:49:58] [0000m.00s.089ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.11.14 23:49:58] [0000m.00s.089ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.11.14 23:49:58] [0000m.00s.089ms] [3] AMP: CREATE
+[2021.11.14 23:49:58] [0000m.00s.089ms] [2] NE: CREATE
+[2021.11.14 23:49:58] [0000m.00s.089ms] [1] IC: Project GUID [7b0b-a90e-eda9-28a5-74cd-781d-4cd7-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 23:49:58] [0000m.00s.089ms] [1] IC: Project path [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database] on file system [NTFS]
+[2021.11.14 23:49:58] [0000m.00s.089ms] [2] AMP: START
+[2021.11.14 23:49:58] [0000m.00s.089ms] [1] IC: Working in FULL access mode
+[2021.11.14 23:49:58] [0000m.00s.090ms] [2] IC: EDM BLP: Trying to log with empty user id.
+[2021.11.14 23:49:58] [0000m.00s.111ms] [1] ServerProperties: Reading server properties for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database]
+[2021.11.14 23:49:58] [0000m.00s.112ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [8495-7fd6-8819-ac6d-090d-1916-90d1-9160-1f24-63b2-6f9e-ae9a]  for project [C:\Users\juanr\Desktop\Integracion de sistemas mecatronicos\fox-cr7\Smart-HVAC_netlist\database] with GUID [7b0b-a90e-eda9-28a5-74cd-781d-4cd7-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 23:49:58] [0000m.00s.112ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 23:49:58] [0000m.00s.113ms] [1] Connecting to iCDB Server:  Host [LAPTOP-MQ9FFE5U] IP [127.0.0.1]  Port [10000]
+[2021.11.14 23:49:58] [0000m.00s.113ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 23:49:58] [0000m.00s.113ms] [1] Connected to iCDB Server [127.0.0.1]
+[2021.11.14 23:49:58] [0000m.00s.115ms] [1] Session [566] opened
+[2021.11.14 23:49:58] [0000m.00s.115ms] [1] Working mode: Online
+[2021.11.14 23:49:58] [0000m.00s.117ms] [1] C: Registered sub-client: [icdb2wir] with ID: [1]
+[2021.11.14 23:49:58] [0000m.00s.242ms] [1] C: Unregistered sub-client: [icdb2wir] with ID: [1]
+[2021.11.14 23:49:58] [0000m.00s.247ms] [1] Disconnected from iCDB Server
+[2021.11.14 23:49:58] [0000m.00s.247ms] [1] Working mode: Offline
+[2021.11.14 23:49:58] [0000m.00s.617ms] [0] C: Stop
+[2021.11.14 23:49:58] [0000m.00s.618ms] [0] .

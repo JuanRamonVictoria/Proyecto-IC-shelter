@@ -1,0 +1,34 @@
+[2021.11.15 00:00:03] [0001m.30s.854ms] [0] DiagProperties: ERROR: iCDB Server Monitor address file not found
+[2021.11.15 00:00:03] [0001m.30s.863ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.15 00:00:03] [0001m.30s.863ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [af27-44de-dfee-a5ed-189d-1917-89d1-9160-1932-63b2-6f9e-ae9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.15 00:00:03] [0001m.30s.864ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.15 00:00:03] [0001m.30s.864ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.15 00:00:03] [0001m.30s.865ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [af27-44de-dfee-a5ed-189d-1917-89d1-9160-1932-63b2-6f9e-ae9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.15 00:00:03] [0001m.30s.865ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.15 00:00:03] [0001m.30s.885ms] [0] AMC: Event: ProjectConnectionSucceed
+[2021.11.15 00:00:03] [0001m.30s.894ms] [1] SK:  Registered snapshot [0A601070]
+[2021.11.15 00:00:03] [0001m.30s.899ms] [1] SK:  Registered snapshot [0A420048]
+[2021.11.15 00:00:03] [0001m.30s.910ms] [1] SK:  Unregistered snapshot [0B302848]
+[2021.11.15 00:00:03] [0001m.30s.954ms] [1] SK:  Unregistered snapshot [0A601070]
+[2021.11.15 00:04:12] [0005m.39s.872ms] [0] DiagProperties: ERROR: iCDB Server Monitor address file not found
+[2021.11.15 00:04:12] [0005m.39s.882ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.15 00:04:12] [0005m.39s.883ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [af27-44de-dfee-a5ed-189d-1917-89d1-9160-1932-63b2-6f9e-ae9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.15 00:04:12] [0005m.39s.883ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.15 00:04:12] [0005m.39s.884ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.15 00:04:12] [0005m.39s.884ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [af27-44de-dfee-a5ed-189d-1917-89d1-9160-1932-63b2-6f9e-ae9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.15 00:04:12] [0005m.39s.884ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.15 00:04:12] [0005m.39s.908ms] [0] AMC: Event: ProjectConnectionSucceed
+[2021.11.15 00:04:12] [0005m.39s.914ms] [1] SK:  Registered snapshot [0A601070]
+[2021.11.15 00:04:12] [0005m.39s.919ms] [1] SK:  Registered snapshot [0A5A88D0]
+[2021.11.15 00:04:12] [0005m.39s.930ms] [1] SK:  Unregistered snapshot [0A420048]
+[2021.11.15 00:04:12] [0005m.39s.969ms] [1] SK:  Unregistered snapshot [0A601070]
+[2021.11.15 00:04:13] [0005m.40s.431ms] [0] DiagProperties: ERROR: iCDB Server Monitor address file not found
+[2021.11.15 00:04:13] [0005m.40s.437ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.15 00:04:13] [0005m.40s.438ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [af27-44de-dfee-a5ed-189d-1917-89d1-9160-1932-63b2-6f9e-ae9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.15 00:04:13] [0005m.40s.438ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.15 00:04:13] [0005m.40s.439ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.15 00:04:13] [0005m.40s.439ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [af27-44de-dfee-a5ed-189d-1917-89d1-9160-1932-63b2-6f9e-ae9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.15 00:04:13] [0005m.40s.439ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.15 00:05:45] [0007m.12s.993ms] [1] SK:  Unregistered snapshot [0A5A88D0]
+[2021.11.15 00:05:45] [0007m.12s.998ms] [0] PM: Closing client mode
+[2021.11.15 00:05:45] [0007m.12s.998ms] [0] .

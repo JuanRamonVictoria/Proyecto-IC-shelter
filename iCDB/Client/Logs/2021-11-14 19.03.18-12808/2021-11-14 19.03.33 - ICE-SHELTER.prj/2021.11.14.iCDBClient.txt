@@ -1,0 +1,144 @@
+[2021.11.14 19:03:33] [0000m.15s.358ms] [0] WELCOME
+[2021.11.14 19:03:33] [0000m.15s.359ms] [1] iCDB Client ver.2.207, qgLvIY/Eg4ge+fhn3Vi3jQ, build:15449124 created 2019-12-19 14:24:55, sources stamp:qgLvIY/Eg4ge+fhn3Vi3jQ
+[2021.11.14 19:03:33] [0000m.15s.359ms] [1] Restricted Copyright Siemens 2020. All Rights Reserved.
+[2021.11.14 19:03:33] [0000m.15s.359ms] [1] Base flow version [VX.2.7]
+[2021.11.14 19:03:33] [0000m.15s.359ms] [1] Install Id [2119024], Flow Id [PADS VX.2.7], Full Flow Name [PADS VX.2.7], Exact Access Date [2020/02/01]
+[2021.11.14 19:03:33] [0000m.15s.359ms] [1] UPDATE Install Info, Install Id [2150279], UPDATE Name [PADS VX.2.7 - Update 1]
+[2021.11.14 19:03:33] [0000m.15s.360ms] [1] Machine [LAPTOP-MQ9FFE5U]  IP [127.0.0.1,192.168.1.60]  User [juanr]  PID [12808]
+[2021.11.14 19:03:33] [0000m.15s.360ms] [1] Operating system [Microsoft Windows 8 Home Premium Edition, 64-bit (build 9200)]
+[2021.11.14 19:03:33] [0000m.15s.360ms] [1] Current working dir [C:\PADS Projects\DxProjects\ICE-SHELTER]
+[2021.11.14 19:03:33] [0000m.15s.360ms] [1] PATH [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.7\MGC_HOME.ixn\lib;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Users\juanr\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\CAMCAD;C:\Users\juanr\AppData\Local\Programs\Microsoft VS Code\bin]
+[2021.11.14 19:03:33] [0000m.15s.361ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.7\SDD_HOME] on file system [NTFS]
+[2021.11.14 19:03:33] [0000m.15s.361ms] [1] SDD_PLATFORM [win32]
+[2021.11.14 19:03:33] [0000m.15s.361ms] [1] WDIR [C:\PADS Projects;C:\MentorGraphics\PADSVX.2.7\SDD_HOME\standard;]
+[2021.11.14 19:03:33] [0000m.15s.361ms] [1] Local iCDB working dir [C:\PADS Projects\iCDB] on file system [NTFS]
+[2021.11.14 19:03:33] [0000m.15s.361ms] [3] AMP: CREATE
+[2021.11.14 19:03:33] [0000m.15s.361ms] [2] NE: CREATE
+[2021.11.14 19:03:33] [0000m.15s.361ms] [1] IC: Project GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 19:03:33] [0000m.15s.361ms] [1] IC: Project path [C:\PADS Projects\DxProjects\ICE-SHELTER\database] on file system [NTFS]
+[2021.11.14 19:03:33] [0000m.15s.361ms] [1] IC: Working in FULL access mode
+[2021.11.14 19:03:33] [0000m.15s.361ms] [2] IC: EDM BLP: Trying to log with empty user id.
+[2021.11.14 19:03:33] [0000m.15s.361ms] [2] AMP: START
+[2021.11.14 19:03:33] [0000m.15s.400ms] [0] ServerToolkit: INFO: Server primary path []
+[2021.11.14 19:03:33] [0000m.15s.400ms] [0] ServerToolkit: INFO: GetServerProgramFilePath without checking version.
+[2021.11.14 19:03:33] [0000m.15s.401ms] [0] ServerToolkit: INFO: Server found in SDD_COMMON_BIN [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin]
+[2021.11.14 19:03:33] [0000m.15s.401ms] [0] ServerToolkit: Running server: command [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin\iCDBNetServer.exe] with parameters [C:\MentorGraphics\PADSVX.2.7\SDD_HOME\common\win32\bin\iCDBNetServer.exe -db "C:\PADS Projects\DxProjects\ICE-SHELTER\database" -prj "C:\PADS Projects\DxProjects\ICE-SHELTER\ICE-SHELTER.prj" -dbid "c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a" -autoclose -client "LAPTOP-MQ9FFE5U:juanr:12808" -clientver "qgLvIY/Eg4ge+fhn3Vi3jQ" -clientpid "12808" 
+[2021.11.14 19:03:34] [0000m.16s.166ms] [0] ServerToolkit: Server command executed
+[2021.11.14 19:03:34] [0000m.16s.381ms] [0] ServerToolkit: Server for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] is running
+[2021.11.14 19:03:34] [0000m.16s.381ms] [1] ServerProperties: Reading server properties for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database]
+[2021.11.14 19:03:34] [0000m.16s.382ms] [0] ServerProperties: Host [LAPTOP-MQ9FFE5U]  IP [127.0.0.1]  Port [10000]  GUID [81d6-caa9-2e22-dfd1-6c59-191c-c591-9160-56d4-6372-6f9e-ae9a]  for project [C:\PADS Projects\DxProjects\ICE-SHELTER\database] with GUID [c95d-0e92-f7a9-68c0-c5dd-5812-6dd5-8160-128c-6372-6f9e-ae9a]
+[2021.11.14 19:03:34] [0000m.16s.382ms] [1] Connecting to iCDB Server:  Host [LAPTOP-MQ9FFE5U] IP [127.0.0.1]  Port [10000]
+[2021.11.14 19:03:34] [0000m.16s.382ms] [1] Network: DNS query IP [127.0.0.1]
+[2021.11.14 19:03:34] [0000m.16s.382ms] [1] Connected to iCDB Server [127.0.0.1]
+[2021.11.14 19:03:35] [0000m.16s.932ms] [1] Session [252] opened
+[2021.11.14 19:03:35] [0000m.16s.932ms] [1] Working mode: Online
+[2021.11.14 19:03:35] [0000m.16s.937ms] [1] C: Registered sub-client: [DxD] with ID: [1]
+[2021.11.14 19:03:35] [0000m.16s.941ms] [1] INFO: Exclusive read locks disabled
+[2021.11.14 19:03:35] [0000m.16s.970ms] [1] CRC equalize: S=1 I=57 IC=0 C=56
+[2021.11.14 19:03:35] [0000m.17s.029ms] [1] C: Registered sub-client: [TransactionRollbackSubClient] with ID: [2]
+[2021.11.14 19:03:35] [0000m.17s.048ms] [1] C: Registered sub-client: [SymbolEditor] with ID: [3]
+[2021.11.14 19:03:35] [0000m.17s.053ms] [1] C: Registered sub-client: [SelectionHolder] with ID: [4]
+[2021.11.14 19:03:35] [0000m.17s.076ms] [1] C: Registered sub-client: [Core::DesignListener-629881080-0] with ID: [5]
+[2021.11.14 19:03:35] [0000m.17s.079ms] [1] C: Registered sub-client: [BlockCacheDxD:629880360] with ID: [6]
+[2021.11.14 19:03:35] [0000m.17s.082ms] [1] C: Registered sub-client: [Core::NetFlatData-2] with ID: [7]
+[2021.11.14 19:03:35] [0000m.17s.136ms] [1] C: Registered sub-client: [SystemDesignDll] with ID: [8]
+[2021.11.14 19:03:35] [0000m.17s.143ms] [1] C: Unregistered sub-client: [SystemDesignDll] with ID: [8]
+[2021.11.14 19:03:35] [0000m.17s.147ms] [1] C: Registered sub-client: [SystemDesignDll] with ID: [9]
+[2021.11.14 19:03:37] [0000m.18s.995ms] [1] C: Registered sub-client: [DesignSearcher2] with ID: [10]
+[2021.11.14 19:03:37] [0000m.19s.005ms] [1] C: Registered sub-client: [HdlProject] with ID: [11]
+[2021.11.14 19:03:37] [0000m.19s.010ms] [1] C: Registered sub-client: [Navigator] with ID: [12]
+[2021.11.14 19:03:37] [0000m.19s.023ms] [1] C: Registered sub-client: [OutputWindow] with ID: [13]
+[2021.11.14 19:03:37] [0000m.19s.026ms] [1] C: Registered sub-client: [PlaceDevice] with ID: [14]
+[2021.11.14 19:03:37] [0000m.19s.123ms] [1] C: Registered sub-client: [FFSearch_RBHost] with ID: [15]
+[2021.11.14 19:03:37] [0000m.19s.126ms] [1] C: Registered sub-client: [LocalSymbolsDataProvider] with ID: [16]
+[2021.11.14 19:03:38] [0000m.20s.239ms] [1] C: Registered sub-client: [FFSSelListener] with ID: [17]
+[2021.11.14 19:03:38] [0000m.20s.243ms] [1] C: Registered sub-client: [SAE] with ID: [18]
+[2021.11.14 19:03:38] [0000m.20s.255ms] [1] C: Registered sub-client: [DxConstraints] with ID: [19]
+[2021.11.14 19:03:38] [0000m.20s.259ms] [1] C: Registered sub-client: [CCZAddin] with ID: [20]
+[2021.11.14 19:03:38] [0000m.20s.262ms] [1] C: Registered sub-client: [DxThumbnails] with ID: [21]
+[2021.11.14 19:03:38] [0000m.20s.265ms] [1] C: Registered sub-client: [MyParts] with ID: [22]
+[2021.11.14 19:03:38] [0000m.20s.282ms] [1] C: Registered sub-client: [PinsList] with ID: [23]
+[2021.11.14 19:03:38] [0000m.20s.376ms] [1] C: Registered sub-client: [toolboxes] with ID: [24]
+[2021.11.14 19:03:38] [0000m.20s.487ms] [1] C: Registered sub-client: [IBDInstanceDialog] with ID: [25]
+[2021.11.14 19:03:38] [0000m.20s.491ms] [1] C: Registered sub-client: [ProjectIntegrationIcdbCacheDxD:639237296] with ID: [26]
+[2021.11.14 19:03:38] [0000m.20s.535ms] [1] C: Registered sub-client: [SheetConnectorsCacheDxD:1636931018] with ID: [27]
+[2021.11.14 19:03:38] [0000m.20s.602ms] [1] C: Registered sub-client: [NetsNamesCollectorDxD:1636931018] with ID: [28]
+[2021.11.14 19:03:38] [0000m.20s.628ms] [1] C: Registered sub-client: [PartReplaceUtils] with ID: [29]
+[2021.11.14 19:03:38] [0000m.20s.631ms] [1] C: Registered sub-client: [PartReplaceUtilsSelectionListener] with ID: [30]
+[2021.11.14 19:03:38] [0000m.20s.640ms] [1] C: Registered sub-client: [xprob] with ID: [31]
+[2021.11.14 19:03:38] [0000m.20s.707ms] [1] C: Registered sub-client: [StartServerClient3238] with ID: [32]
+[2021.11.14 19:03:38] [0000m.20s.708ms] [1] C: Unregistered sub-client: [StartServerClient3238] with ID: [32]
+[2021.11.14 19:03:42] [0000m.24s.194ms] [1] C: Registered sub-client: [ObjectHolder_679840816] with ID: [33]
+[2021.11.14 19:03:42] [0000m.24s.197ms] [1] C: Registered sub-client: [BlockCacheDxD:679408376] with ID: [34]
+[2021.11.14 19:03:42] [0000m.24s.200ms] [1] C: Registered sub-client: [GlobalNetAliasUpdater_679842272] with ID: [35]
+[2021.11.14 19:03:42] [0000m.24s.203ms] [1] C: Registered sub-client: [IcdbNetProcessorSubClientDxD:678159072] with ID: [36]
+[2021.11.14 19:03:42] [0000m.24s.550ms] [1] C: Registered sub-client: [DxDbSearch] with ID: [37]
+[2021.11.14 19:29:31] [0026m.13s.498ms] [1] C: Registered sub-client: [VirtualPartActions::backSyncronize] with ID: [38]
+[2021.11.14 19:29:31] [0026m.13s.498ms] [1] C: Unregistered sub-client: [VirtualPartActions::backSyncronize] with ID: [38]
+[2021.11.14 19:29:31] [0026m.13s.666ms] [1] C: Unregistered sub-client: [GlobalNetAliasUpdater_679842272] with ID: [35]
+[2021.11.14 19:29:31] [0026m.13s.667ms] [1] C: Unregistered sub-client: [BlockCacheDxD:679408376] with ID: [34]
+[2021.11.14 19:29:31] [0026m.13s.667ms] [1] C: Unregistered sub-client: [ObjectHolder_679840816] with ID: [33]
+[2021.11.14 19:29:31] [0026m.13s.667ms] [1] C: Unregistered sub-client: [IcdbNetProcessorSubClientDxD:678159072] with ID: [36]
+[2021.11.14 19:29:31] [0026m.13s.679ms] [1] C: Registered sub-client: [ObjectHolder_683684152] with ID: [39]
+[2021.11.14 19:29:31] [0026m.13s.682ms] [1] C: Registered sub-client: [BlockCacheDxD:324957064] with ID: [40]
+[2021.11.14 19:29:31] [0026m.13s.684ms] [1] C: Registered sub-client: [GlobalNetAliasUpdater_683682696] with ID: [41]
+[2021.11.14 19:29:31] [0026m.13s.687ms] [1] C: Registered sub-client: [IcdbNetProcessorSubClientDxD:637451544] with ID: [42]
+[2021.11.14 19:31:01] [0027m.43s.575ms] [1] C: Unregistered sub-client: [GlobalNetAliasUpdater_683682696] with ID: [41]
+[2021.11.14 19:31:01] [0027m.43s.576ms] [1] C: Unregistered sub-client: [BlockCacheDxD:324957064] with ID: [40]
+[2021.11.14 19:31:01] [0027m.43s.576ms] [1] C: Unregistered sub-client: [ObjectHolder_683684152] with ID: [39]
+[2021.11.14 19:31:01] [0027m.43s.576ms] [1] C: Unregistered sub-client: [IcdbNetProcessorSubClientDxD:637451544] with ID: [42]
+[2021.11.14 19:31:01] [0027m.43s.587ms] [1] C: Registered sub-client: [ObjectHolder_683683424] with ID: [43]
+[2021.11.14 19:31:01] [0027m.43s.590ms] [1] C: Registered sub-client: [BlockCacheDxD:324958168] with ID: [44]
+[2021.11.14 19:31:01] [0027m.43s.593ms] [1] C: Registered sub-client: [GlobalNetAliasUpdater_683683320] with ID: [45]
+[2021.11.14 19:31:01] [0027m.43s.597ms] [1] C: Registered sub-client: [IcdbNetProcessorSubClientDxD:637455408] with ID: [46]
+[2021.11.14 20:05:11] [0061m.53s.135ms] [1] WARNING: Server sleep detected
+[2021.11.14 20:05:11] [0061m.53s.191ms] [0] ERROR: Receiving command: Socket Exception: Category[Socket] Error[ConnectionClosed] Description[Connection closed] Message[Receiving network command with timeout]
+[2021.11.14 20:05:11] [0061m.53s.191ms] [1] Disconnected from iCDB Server
+[2021.11.14 20:05:11] [0061m.53s.192ms] [1] Working mode: Offline (server sleep)
+[2021.11.14 20:05:11] [0061m.53s.192ms] [0] RT: ERROR: Receiving command: Socket Exception: Category[Socket] Error[ConnectionClosed] Description[Connection closed] Message[Receiving network command with timeout]
+[2021.11.14 20:05:11] [0061m.53s.192ms] [0] CE: ERROR: Executing notify command on iCDB: [Notify # ServerCommandID[39640] # NetSubClientFullData[ClientData[ClientNetAddress[] # ClientUserName[] # ClientProcessID[0] # SessionID[0] # Type[0]] # SubClientData[SubClientName[] # SubClientID[0]]] @ GoOffline]
+[2021.11.14 20:05:11] [0061m.53s.442ms] [1] C: Unregistered sub-client: [DesignSearcher2] with ID: [10]
+[2021.11.14 20:05:11] [0061m.53s.452ms] [1] C: Unregistered sub-client: [Navigator] with ID: [12]
+[2021.11.14 20:05:11] [0061m.53s.452ms] [1] C: Unregistered sub-client: [OutputWindow] with ID: [13]
+[2021.11.14 20:05:11] [0061m.53s.452ms] [1] C: Unregistered sub-client: [PlaceDevice] with ID: [14]
+[2021.11.14 20:05:11] [0061m.53s.458ms] [1] C: Unregistered sub-client: [FFSSelListener] with ID: [17]
+[2021.11.14 20:05:11] [0061m.53s.589ms] [1] C: Unregistered sub-client: [LocalSymbolsDataProvider] with ID: [16]
+[2021.11.14 20:05:11] [0061m.53s.699ms] [1] C: Unregistered sub-client: [FFSearch_RBHost] with ID: [15]
+[2021.11.14 20:05:11] [0061m.53s.699ms] [1] C: Unregistered sub-client: [SAE] with ID: [18]
+[2021.11.14 20:05:11] [0061m.53s.699ms] [1] C: Unregistered sub-client: [DxConstraints] with ID: [19]
+[2021.11.14 20:05:11] [0061m.53s.700ms] [1] C: Unregistered sub-client: [CCZAddin] with ID: [20]
+[2021.11.14 20:05:11] [0061m.53s.700ms] [1] C: Unregistered sub-client: [DxThumbnails] with ID: [21]
+[2021.11.14 20:05:11] [0061m.53s.715ms] [1] C: Unregistered sub-client: [MyParts] with ID: [22]
+[2021.11.14 20:05:11] [0061m.53s.715ms] [1] C: Unregistered sub-client: [PinsList] with ID: [23]
+[2021.11.14 20:05:11] [0061m.53s.715ms] [1] C: Unregistered sub-client: [toolboxes] with ID: [24]
+[2021.11.14 20:05:11] [0061m.53s.722ms] [1] Working mode: Offline (no connection possible)
+[2021.11.14 20:05:11] [0061m.53s.845ms] [1] C: Unregistered sub-client: [DxDbSearch] with ID: [37]
+[2021.11.14 20:05:11] [0061m.53s.845ms] [1] C: Unregistered sub-client: [IBDInstanceDialog] with ID: [25]
+[2021.11.14 20:05:11] [0061m.53s.845ms] [1] C: Unregistered sub-client: [HdlProject] with ID: [11]
+[2021.11.14 20:05:11] [0061m.53s.845ms] [1] C: Unregistered sub-client: [SystemDesignDll] with ID: [9]
+[2021.11.14 20:05:11] [0061m.53s.860ms] [1] WARNING: Unrecoverable error detected
+[2021.11.14 20:05:11] [0061m.53s.860ms] [1] Working mode: Offline (server changed)
+[2021.11.14 20:05:11] [0061m.53s.867ms] [1] WARNING: Unrecoverable error detected
+[2021.11.14 20:05:11] [0061m.53s.880ms] [1] WARNING: Unrecoverable error detected
+[2021.11.14 20:05:11] [0061m.53s.882ms] [1] C: Unregistered sub-client: [GlobalNetAliasUpdater_683683320] with ID: [45]
+[2021.11.14 20:05:11] [0061m.53s.882ms] [1] C: Unregistered sub-client: [BlockCacheDxD:324958168] with ID: [44]
+[2021.11.14 20:05:11] [0061m.53s.882ms] [1] C: Unregistered sub-client: [ObjectHolder_683683424] with ID: [43]
+[2021.11.14 20:05:11] [0061m.53s.882ms] [1] C: Unregistered sub-client: [IcdbNetProcessorSubClientDxD:637455408] with ID: [46]
+[2021.11.14 20:05:11] [0061m.53s.882ms] [1] C: Unregistered sub-client: [PartReplaceUtils] with ID: [29]
+[2021.11.14 20:05:11] [0061m.53s.882ms] [1] C: Unregistered sub-client: [PartReplaceUtilsSelectionListener] with ID: [30]
+[2021.11.14 20:05:12] [0061m.54s.221ms] [0] AT: Discovered client working mode change to non-recoverable error: [Offline (server changed)] - no auto-repair connection possible
+[2021.11.14 20:05:13] [0061m.55s.130ms] [1] C: Unregistered sub-client: [ProjectIntegrationIcdbCacheDxD:639237296] with ID: [26]
+[2021.11.14 20:05:13] [0061m.55s.130ms] [1] C: Unregistered sub-client: [Core::NetFlatData-2] with ID: [7]
+[2021.11.14 20:05:13] [0061m.55s.131ms] [1] C: Unregistered sub-client: [BlockCacheDxD:629880360] with ID: [6]
+[2021.11.14 20:05:13] [0061m.55s.131ms] [1] C: Unregistered sub-client: [Core::DesignListener-629881080-0] with ID: [5]
+[2021.11.14 20:05:13] [0061m.55s.131ms] [1] C: Unregistered sub-client: [SelectionHolder] with ID: [4]
+[2021.11.14 20:05:13] [0061m.55s.131ms] [1] C: Unregistered sub-client: [SheetConnectorsCacheDxD:1636931018] with ID: [27]
+[2021.11.14 20:05:13] [0061m.55s.131ms] [1] C: Unregistered sub-client: [NetsNamesCollectorDxD:1636931018] with ID: [28]
+[2021.11.14 20:05:13] [0061m.55s.131ms] [1] C: Unregistered sub-client: [TransactionRollbackSubClient] with ID: [2]
+[2021.11.14 20:05:13] [0061m.55s.131ms] [1] C: Unregistered sub-client: [DxD] with ID: [1]
+[2021.11.14 20:05:13] [0061m.55s.142ms] [1] C: Unregistered sub-client: [xprob] with ID: [31]
+[2021.11.14 20:05:13] [0061m.55s.147ms] [1] C: Unregistered sub-client: [SymbolEditor] with ID: [3]
+[2021.11.14 20:05:13] [0061m.55s.147ms] [1] C: WARNING: Closing session while not connected to iCDB Server
+[2021.11.14 20:05:13] [0061m.55s.147ms] [1] Working mode: Offline
+[2021.11.14 20:05:13] [0061m.55s.241ms] [0] C: Stop
+[2021.11.14 20:05:13] [0061m.55s.241ms] [0] .
